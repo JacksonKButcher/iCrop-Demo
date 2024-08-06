@@ -1,0 +1,606 @@
+Missed Bytes: 0, First Time: 10.406942129135132, Final Time: 10.406942129135132, RSSI Avg: -45.97142857142857, SF: 7, BW: 500 bacterial_blight_1.jpg_3_5.jpeg
+Missed Bytes: 0, First Time: 11.16064167022705, Final Time: 11.16064167022705, RSSI Avg: -45.73863636363637, SF: 7, BW: 500 bacterial_blight_1.jpg_2_3.jpeg
+Missed Bytes: 0, First Time: 10.992320775985718, Final Time: 10.992320775985718, RSSI Avg: -45.66153846153846, SF: 7, BW: 500 bacterial_blight_1.jpg_2_4.jpeg
+Missed Bytes: 0, First Time: 7.549309968948364, Final Time: 7.549309968948364, RSSI Avg: -47.59217877094972, SF: 7, BW: 500 bacterial_blight_1.jpg_3_6.jpeg
+Missed Bytes: 0, First Time: 9.326668739318848, Final Time: 9.326668739318848, RSSI Avg: -46.14027149321267, SF: 7, BW: 500 bacterial_blight_1.jpg_3_4.jpeg
+Missed Bytes: 0, First Time: 10.380232810974121, Final Time: 10.380232810974121, RSSI Avg: -46.10204081632653, SF: 7, BW: 500 bacterial_blight_1.jpg_3_5.jpeg
+Missed Bytes: 0, First Time: 11.154396772384644, Final Time: 11.154396772384644, RSSI Avg: -45.90151515151515, SF: 7, BW: 500 bacterial_blight_1.jpg_2_3.jpeg
+Missed Bytes: 0, First Time: 10.989890813827515, Final Time: 10.990890502929688, RSSI Avg: -46.434615384615384, SF: 7, BW: 500 bacterial_blight_1.jpg_2_4.jpeg
+Missed Bytes: 0, First Time: 7.563161611557007, Final Time: 7.563161611557007, RSSI Avg: -47.78212290502793, SF: 7, BW: 500 bacterial_blight_1.jpg_3_6.jpeg
+Missed Bytes: 64, First Time: 10.401118993759155, Final Time: 40.51543307304382, RSSI Avg: -45.46530612244898, SF: 7, BW: 500 bacterial_blight_1.jpg_3_5.jpeg
+Missed Bytes: 0, First Time: 11.188425540924072, Final Time: 11.188425540924072, RSSI Avg: -44.84848484848485, SF: 7, BW: 500 bacterial_blight_1.jpg_2_3.jpeg
+Missed Bytes: 128, First Time: 10.996975660324097, Final Time: 41.1747944355011, RSSI Avg: -45.04615384615385, SF: 7, BW: 500 bacterial_blight_1.jpg_2_4.jpeg
+Missed Bytes: 64, First Time: 10.592811822891235, Final Time: 40.71965312957764, RSSI Avg: -45.29387755102041, SF: 7, BW: 500 bacterial_blight_1.jpg_3_5.jpeg
+Missed Bytes: 0, First Time: 11.156945705413818, Final Time: 11.157970190048218, RSSI Avg: -45.36742424242424, SF: 7, BW: 500 bacterial_blight_1.jpg_2_3.jpeg
+Missed Bytes: 0, First Time: 10.977602243423462, Final Time: 10.977602243423462, RSSI Avg: -45.74230769230769, SF: 7, BW: 500 bacterial_blight_1.jpg_2_4.jpeg
+Missed Bytes: 0, First Time: 7.574708461761475, Final Time: 7.576713800430298, RSSI Avg: -47.79329608938548, SF: 7, BW: 500 bacterial_blight_1.jpg_3_6.jpeg
+Missed Bytes: 0, First Time: 9.357616424560547, Final Time: 9.357616424560547, RSSI Avg: -46.723981900452486, SF: 7, BW: 500 bacterial_blight_1.jpg_3_4.jpeg
+Missed Bytes: 64, First Time: 10.432076930999756, Final Time: 40.552473306655884, RSSI Avg: -51.775510204081634, SF: 7, BW: 500 bacterial_blight_1_3_5.jpeg
+Missed Bytes: 64, First Time: 11.170795679092407, Final Time: 41.280662536621094, RSSI Avg: -51.140151515151516, SF: 7, BW: 500 bacterial_blight_1_2_3.jpeg
+Missed Bytes: 0, First Time: 10.99813985824585, Final Time: 11.005126714706421, RSSI Avg: -50.25769230769231, SF: 7, BW: 500 bacterial_blight_1_2_4.jpeg
+Missed Bytes: 0, First Time: 7.570342779159546, Final Time: 7.570342779159546, RSSI Avg: -52.07821229050279, SF: 7, BW: 500 bacterial_blight_1_3_6.jpeg
+Missed Bytes: 0, First Time: 9.358110189437866, Final Time: 9.359451055526733, RSSI Avg: -50.95475113122172, SF: 7, BW: 500 bacterial_blight_1_3_4.jpeg
+Missed Bytes: 0, First Time: 4.267817258834839, Final Time: 4.268815994262695, RSSI Avg: -58.55, SF: 7, BW: 500 frogeye_1005_5_3.jpeg
+Missed Bytes: 0, First Time: 3.931082248687744, Final Time: 3.931448459625244, RSSI Avg: -59.526881720430104, SF: 7, BW: 500 frogeye_1005_5_4.jpeg
+Missed Bytes: 0, First Time: 2.573690891265869, Final Time: 2.5756916999816895, RSSI Avg: -63.19672131147541, SF: 7, BW: 500 frogeye_1005_5_1.jpeg
+Missed Bytes: 64, First Time: 5.633836030960083, Final Time: 35.75795388221741, RSSI Avg: -54.142857142857146, SF: 7, BW: 500 frogeye_1005_3_4.jpeg
+Missed Bytes: 0, First Time: 4.18704628944397, Final Time: 4.188046932220459, RSSI Avg: -56.515151515151516, SF: 7, BW: 500 frogeye_1005_4_4.jpeg
+Missed Bytes: 64, First Time: 4.258172988891602, Final Time: 34.3675377368927, RSSI Avg: -58.3, SF: 7, BW: 500 frogeye_1005_5_3.jpeg
+Missed Bytes: 0, First Time: 3.9418880939483643, Final Time: 3.9429168701171875, RSSI Avg: -59.54838709677419, SF: 7, BW: 500 frogeye_1005_5_4.jpeg
+Missed Bytes: 0, First Time: 2.582075595855713, Final Time: 2.5830721855163574, RSSI Avg: -65.37704918032787, SF: 7, BW: 500 frogeye_1005_5_1.jpeg
+Missed Bytes: 64, First Time: 5.624592065811157, Final Time: 35.73605513572693, RSSI Avg: -54.80451127819549, SF: 7, BW: 500 frogeye_1005_3_4.jpeg
+Missed Bytes: 0, First Time: 4.190711975097656, Final Time: 4.1917150020599365, RSSI Avg: -57.42424242424242, SF: 7, BW: 500 frogeye_1005_4_4.jpeg
+Missed Bytes: 0, First Time: 4.26411771774292, Final Time: 4.26411771774292, RSSI Avg: -60.16, SF: 7, BW: 500 frogeye_1005_5_3.jpeg
+Missed Bytes: 0, First Time: 3.9456512928009033, Final Time: 3.9531760215759277, RSSI Avg: -61.11827956989247, SF: 7, BW: 500 frogeye_1005_5_4.jpeg
+Missed Bytes: 0, First Time: 2.585325241088867, Final Time: 2.585325241088867, RSSI Avg: -67.50819672131148, SF: 7, BW: 500 frogeye_1005_5_1.jpeg
+Missed Bytes: 0, First Time: 5.614930152893066, Final Time: 5.614930152893066, RSSI Avg: -57.38345864661654, SF: 7, BW: 500 frogeye_1005_3_4.jpeg
+Missed Bytes: 0, First Time: 4.18300199508667, Final Time: 4.18300199508667, RSSI Avg: -59.26262626262626, SF: 7, BW: 500 frogeye_1005_4_4.jpeg
+Missed Bytes: 64, First Time: 4.269127130508423, Final Time: 34.394752740859985, RSSI Avg: -59.36, SF: 7, BW: 500 frogeye_1005_5_3.jpeg
+Missed Bytes: 0, First Time: 3.939681053161621, Final Time: 3.939681053161621, RSSI Avg: -61.1505376344086, SF: 7, BW: 500 frogeye_1005_5_4.jpeg
+Missed Bytes: 0, First Time: 2.589596748352051, Final Time: 2.589596748352051, RSSI Avg: -66.06557377049181, SF: 7, BW: 500 frogeye_1005_5_1.jpeg
+Missed Bytes: 0, First Time: 4.269683122634888, Final Time: 4.271187782287598, RSSI Avg: -61.1, SF: 7, BW: 500 frogeye_1005_5_3.jpeg
+Missed Bytes: 0, First Time: 3.9330132007598877, Final Time: 3.9340343475341797, RSSI Avg: -62.774193548387096, SF: 7, BW: 500 frogeye_1005_5_4.jpeg
+Missed Bytes: 0, First Time: 2.588818311691284, Final Time: 2.5891263484954834, RSSI Avg: -63.049180327868854, SF: 7, BW: 500 frogeye_1005_5_1.jpeg
+Missed Bytes: 0, First Time: 5.631996154785156, Final Time: 5.63246488571167, RSSI Avg: -58.142857142857146, SF: 7, BW: 500 frogeye_1005_3_4.jpeg
+Missed Bytes: 64, First Time: 4.193028211593628, Final Time: 34.325000286102295, RSSI Avg: -61.707070707070706, SF: 7, BW: 500 frogeye_1005_4_4.jpeg
+Missed Bytes: 0, First Time: 5.664238691329956, Final Time: 5.664238691329956, RSSI Avg: -56.1578947368421, SF: 7, BW: 500 frogeye_1005_3_4.jpeg
+Missed Bytes: 0, First Time: 4.190899610519409, Final Time: 4.190899610519409, RSSI Avg: -58.474747474747474, SF: 7, BW: 500 frogeye_1005_4_4.jpeg
+Missed Bytes: 0, First Time: 2.584331512451172, Final Time: 2.584331512451172, RSSI Avg: -65.73770491803279, SF: 7, BW: 500 frogeye_1005_5_1.jpeg
+Missed Bytes: 0, First Time: 4.247914552688599, Final Time: 4.247914552688599, RSSI Avg: -58.89, SF: 7, BW: 500 frogeye_1005_5_3.jpeg
+Missed Bytes: 0, First Time: 3.939770221710205, Final Time: 3.9517765045166016, RSSI Avg: -60.053763440860216, SF: 7, BW: 500 frogeye_1005_5_4.jpeg
+Missed Bytes: 0, First Time: 5.653075695037842, Final Time: 5.653075695037842, RSSI Avg: -56.34586466165413, SF: 7, BW: 500 frogeye_1005_3_4.jpeg
+Missed Bytes: 0, First Time: 4.1917712688446045, Final Time: 4.1917712688446045, RSSI Avg: -59.15151515151515, SF: 7, BW: 500 frogeye_1005_4_4.jpeg
+Missed Bytes: 0, First Time: 2.5906360149383545, Final Time: 2.5906360149383545, RSSI Avg: -67.62295081967213, SF: 7, BW: 500 frogeye_1005_5_1.jpeg
+Missed Bytes: 0, First Time: 4.211696624755859, Final Time: 4.211696624755859, RSSI Avg: -60.19, SF: 7, BW: 500 frogeye_1005_5_3.jpeg
+Missed Bytes: 0, First Time: 3.919025182723999, Final Time: 3.919025182723999, RSSI Avg: -60.516129032258064, SF: 7, BW: 500 frogeye_1005_5_4.jpeg
+Missed Bytes: 0, First Time: 5.6577887535095215, Final Time: 5.669825792312622, RSSI Avg: -55.857142857142854, SF: 7, BW: 500 frogeye_1005_3_4.jpeg
+Missed Bytes: 0, First Time: 4.188729524612427, Final Time: 4.188729524612427, RSSI Avg: -59.27272727272727, SF: 7, BW: 500 frogeye_1005_4_4.jpeg
+Missed Bytes: 0, First Time: 2.564115524291992, Final Time: 2.564115524291992, RSSI Avg: -66.14754098360656, SF: 7, BW: 500 frogeye_1005_5_1.jpeg
+Missed Bytes: 0, First Time: 4.242313385009766, Final Time: 4.243325233459473, RSSI Avg: -59.05, SF: 7, BW: 500 frogeye_1005_5_3.jpeg
+Missed Bytes: 0, First Time: 3.938538074493408, Final Time: 3.938538074493408, RSSI Avg: -60.61290322580645, SF: 7, BW: 500 frogeye_1005_5_4.jpeg
+Missed Bytes: 0, First Time: 5.64266562461853, Final Time: 5.64266562461853, RSSI Avg: -55.744360902255636, SF: 7, BW: 500 frogeye_1005_3_4.jpeg
+Missed Bytes: 0, First Time: 4.18776273727417, Final Time: 4.18776273727417, RSSI Avg: -59.05050505050505, SF: 7, BW: 500 frogeye_1005_4_4.jpeg
+Missed Bytes: 0, First Time: 2.577666997909546, Final Time: 2.577666997909546, RSSI Avg: -66.0327868852459, SF: 7, BW: 500 frogeye_1005_5_1.jpeg
+Missed Bytes: 64, First Time: 5.670344114303589, Final Time: 35.78233551979065, RSSI Avg: -54.1578947368421, SF: 7, BW: 500 frogeye_1005_3_4.jpeg
+Missed Bytes: 0, First Time: 4.173398494720459, Final Time: 4.173398494720459, RSSI Avg: -58.56565656565657, SF: 7, BW: 500 frogeye_1005_4_4.jpeg
+Missed Bytes: 0, First Time: 2.5712921619415283, Final Time: 2.5712921619415283, RSSI Avg: -65.39344262295081, SF: 7, BW: 500 frogeye_1005_5_1.jpeg
+Missed Bytes: 0, First Time: 4.22855019569397, Final Time: 4.22855019569397, RSSI Avg: -57.69, SF: 7, BW: 500 frogeye_1005_5_3.jpeg
+Missed Bytes: 0, First Time: 3.9277501106262207, Final Time: 3.9277501106262207, RSSI Avg: -59.17204301075269, SF: 7, BW: 500 frogeye_1005_5_4.jpeg
+Missed Bytes: 0, First Time: 5.657840013504028, Final Time: 5.657840013504028, RSSI Avg: -56.58646616541353, SF: 7, BW: 500 frogeye_1005_3_4.jpeg
+Missed Bytes: 0, First Time: 4.195449352264404, Final Time: 4.195449352264404, RSSI Avg: -59.707070707070706, SF: 7, BW: 500 frogeye_1005_4_4.jpeg
+Missed Bytes: 0, First Time: 2.5841033458709717, Final Time: 2.5851011276245117, RSSI Avg: -67.50819672131148, SF: 7, BW: 500 frogeye_1005_5_1.jpeg
+Missed Bytes: 0, First Time: 4.222376585006714, Final Time: 4.222376585006714, RSSI Avg: -60.13, SF: 7, BW: 500 frogeye_1005_5_3.jpeg
+Missed Bytes: 0, First Time: 3.93220853805542, Final Time: 3.93220853805542, RSSI Avg: -60.763440860215056, SF: 7, BW: 500 frogeye_1005_5_4.jpeg
+Missed Bytes: 64, First Time: 5.650330305099487, Final Time: 35.76578688621521, RSSI Avg: -54.87218045112782, SF: 7, BW: 500 frogeye_1005_3_4.jpeg
+Missed Bytes: 0, First Time: 4.1720428466796875, Final Time: 4.181879997253418, RSSI Avg: -58.7979797979798, SF: 7, BW: 500 frogeye_1005_4_4.jpeg
+Missed Bytes: 0, First Time: 2.589538812637329, Final Time: 2.5910940170288086, RSSI Avg: -66.31147540983606, SF: 7, BW: 500 frogeye_1005_5_1.jpeg
+Missed Bytes: 0, First Time: 4.208792448043823, Final Time: 4.20979118347168, RSSI Avg: -60.53, SF: 7, BW: 500 frogeye_1005_5_3.jpeg
+Missed Bytes: 0, First Time: 3.922063112258911, Final Time: 3.923062324523926, RSSI Avg: -59.46236559139785, SF: 7, BW: 500 frogeye_1005_5_4.jpeg
+Missed Bytes: 0, First Time: 5.668898820877075, Final Time: 5.669902086257935, RSSI Avg: -55.3984962406015, SF: 7, BW: 500 frogeye_1005_3_4.jpeg
+Missed Bytes: 0, First Time: 4.167315721511841, Final Time: 4.18363356590271, RSSI Avg: -58.04040404040404, SF: 7, BW: 500 frogeye_1005_4_4.jpeg
+Missed Bytes: 0, First Time: 2.5799386501312256, Final Time: 2.5799386501312256, RSSI Avg: -65.42622950819673, SF: 7, BW: 500 frogeye_1005_5_1.jpeg
+Missed Bytes: 0, First Time: 4.224522829055786, Final Time: 4.225589275360107, RSSI Avg: -58.63, SF: 7, BW: 500 frogeye_1005_5_3.jpeg
+Missed Bytes: 0, First Time: 3.9209487438201904, Final Time: 3.921973943710327, RSSI Avg: -59.236559139784944, SF: 7, BW: 500 frogeye_1005_5_4.jpeg
+Missed Bytes: 0, First Time: 5.636969089508057, Final Time: 5.637908697128296, RSSI Avg: -54.421052631578945, SF: 7, BW: 500 frogeye_1005_3_4.jpeg
+Missed Bytes: 64, First Time: 4.169010162353516, Final Time: 34.29545283317566, RSSI Avg: -58.22222222222222, SF: 7, BW: 500 frogeye_1005_4_4.jpeg
+Missed Bytes: 0, First Time: 5.63899302482605, Final Time: 5.648420810699463, RSSI Avg: -55.21804511278196, SF: 7, BW: 500 frogeye_1005_3_4.jpeg
+Missed Bytes: 0, First Time: 4.1796557903289795, Final Time: 4.180798530578613, RSSI Avg: -57.63636363636363, SF: 7, BW: 500 frogeye_1005_4_4.jpeg
+Missed Bytes: 0, First Time: 2.58117938041687, Final Time: 2.5821940898895264, RSSI Avg: -64.24590163934427, SF: 7, BW: 500 frogeye_1005_5_1.jpeg
+Missed Bytes: 0, First Time: 4.226027727127075, Final Time: 4.226027727127075, RSSI Avg: -57.47, SF: 7, BW: 500 frogeye_1005_5_3.jpeg
+Missed Bytes: 0, First Time: 3.929868459701538, Final Time: 3.9309380054473877, RSSI Avg: -57.8494623655914, SF: 7, BW: 500 frogeye_1005_5_4.jpeg
+Missed Bytes: 0, First Time: 5.659705400466919, Final Time: 5.659705400466919, RSSI Avg: -54.05263157894737, SF: 7, BW: 500 frogeye_1005_3_4.jpeg
+Missed Bytes: 0, First Time: 4.187270879745483, Final Time: 4.187270879745483, RSSI Avg: -56.44444444444444, SF: 7, BW: 500 frogeye_1005_4_4.jpeg
+Missed Bytes: 0, First Time: 2.5822718143463135, Final Time: 2.583285331726074, RSSI Avg: -63.442622950819676, SF: 7, BW: 500 frogeye_1005_5_1.jpeg
+Missed Bytes: 0, First Time: 4.227184057235718, Final Time: 4.227184057235718, RSSI Avg: -56.25, SF: 7, BW: 500 frogeye_1005_5_3.jpeg
+Missed Bytes: 0, First Time: 3.9237215518951416, Final Time: 3.9237215518951416, RSSI Avg: -57.02150537634409, SF: 7, BW: 500 frogeye_1005_5_4.jpeg
+Missed Bytes: 0, First Time: 5.6533753871917725, Final Time: 5.6533753871917725, RSSI Avg: -55.16541353383459, SF: 7, BW: 500 frogeye_1005_3_4.jpeg
+Missed Bytes: 0, First Time: 5.667722225189209, Final Time: 5.668722867965698, RSSI Avg: -53.89473684210526, SF: 7, BW: 500 frogeye_1005_3_4.jpeg
+Missed Bytes: 0, First Time: 4.188225030899048, Final Time: 4.189627647399902, RSSI Avg: -55.56565656565657, SF: 7, BW: 500 frogeye_1005_4_4.jpeg
+Missed Bytes: 0, First Time: 2.5732555389404297, Final Time: 2.5732555389404297, RSSI Avg: -62.14754098360656, SF: 7, BW: 500 frogeye_1005_5_1.jpeg
+Missed Bytes: 0, First Time: 4.221739768981934, Final Time: 4.221739768981934, RSSI Avg: -55.48, SF: 7, BW: 500 frogeye_1005_5_3.jpeg
+Missed Bytes: 0, First Time: 3.937354803085327, Final Time: 3.937354803085327, RSSI Avg: -56.54838709677419, SF: 7, BW: 500 frogeye_1005_5_4.jpeg
+Missed Bytes: 0, First Time: 5.65352201461792, Final Time: 5.65352201461792, RSSI Avg: -54.5187969924812, SF: 7, BW: 500 frogeye_1005_3_4.jpeg
+Missed Bytes: 0, First Time: 4.185707092285156, Final Time: 4.185707092285156, RSSI Avg: -55.98989898989899, SF: 7, BW: 500 frogeye_1005_4_4.jpeg
+Missed Bytes: 0, First Time: 2.5845909118652344, Final Time: 2.5861151218414307, RSSI Avg: -61.85245901639344, SF: 7, BW: 500 frogeye_1005_5_1.jpeg
+Missed Bytes: 0, First Time: 4.218466281890869, Final Time: 4.2194664478302, RSSI Avg: -55.28, SF: 7, BW: 500 frogeye_1005_5_3.jpeg
+Missed Bytes: 0, First Time: 3.9401464462280273, Final Time: 3.941145420074463, RSSI Avg: -56.60215053763441, SF: 7, BW: 500 frogeye_1005_5_4.jpeg
+Missed Bytes: 0, First Time: 5.651895523071289, Final Time: 5.652811765670776, RSSI Avg: -52.08270676691729, SF: 7, BW: 500 frogeye_1005_3_4.jpeg
+Missed Bytes: 0, First Time: 4.192402362823486, Final Time: 4.192402362823486, RSSI Avg: -54.13131313131313, SF: 7, BW: 500 frogeye_1005_4_4.jpeg
+Missed Bytes: 0, First Time: 2.579160213470459, Final Time: 2.579160213470459, RSSI Avg: -61.32786885245902, SF: 7, BW: 500 frogeye_1005_5_1.jpeg
+Missed Bytes: 0, First Time: 4.220077276229858, Final Time: 4.220693349838257, RSSI Avg: -54.71, SF: 7, BW: 500 frogeye_1005_5_3.jpeg
+Missed Bytes: 0, First Time: 3.950141668319702, Final Time: 3.951141357421875, RSSI Avg: -55.46236559139785, SF: 7, BW: 500 frogeye_1005_5_4.jpeg
+Missed Bytes: 0, First Time: 5.621350049972534, Final Time: 5.622360706329346, RSSI Avg: -51.91729323308271, SF: 7, BW: 500 frogeye_1005_3_4.jpeg
+Missed Bytes: 0, First Time: 4.184493780136108, Final Time: 4.185495138168335, RSSI Avg: -57.83838383838384, SF: 7, BW: 500 frogeye_1005_4_4.jpeg
+Missed Bytes: 0, First Time: 2.5719521045684814, Final Time: 2.5719521045684814, RSSI Avg: -63.557377049180324, SF: 7, BW: 500 frogeye_1005_5_1.jpeg
+Missed Bytes: 0, First Time: 4.219980716705322, Final Time: 4.219980716705322, RSSI Avg: -55.81, SF: 7, BW: 500 frogeye_1005_5_3.jpeg
+Missed Bytes: 0, First Time: 3.929962635040283, Final Time: 3.9311628341674805, RSSI Avg: -57.27956989247312, SF: 7, BW: 500 frogeye_1005_5_4.jpeg
+Missed Bytes: 0, First Time: 5.624489784240723, Final Time: 5.625239133834839, RSSI Avg: -53.61654135338346, SF: 7, BW: 500 frogeye_1005_3_4.jpeg
+Missed Bytes: 0, First Time: 4.170604228973389, Final Time: 4.170604228973389, RSSI Avg: -56.42424242424242, SF: 7, BW: 500 frogeye_1005_4_4.jpeg
+Missed Bytes: 0, First Time: 2.5804550647735596, Final Time: 2.581472396850586, RSSI Avg: -63.26229508196721, SF: 7, BW: 500 frogeye_1005_5_1.jpeg
+Missed Bytes: 0, First Time: 4.223931550979614, Final Time: 4.223931550979614, RSSI Avg: -56.38, SF: 7, BW: 500 frogeye_1005_5_3.jpeg
+Missed Bytes: 0, First Time: 5.6588215827941895, Final Time: 5.6598217487335205, RSSI Avg: -53.48872180451128, SF: 7, BW: 500 frogeye_1005_3_4.jpeg
+Missed Bytes: 64, First Time: 4.173051834106445, Final Time: 34.28013229370117, RSSI Avg: -56.707070707070706, SF: 7, BW: 500 frogeye_1005_4_4.jpeg
+Missed Bytes: 0, First Time: 2.582453966140747, Final Time: 2.583369016647339, RSSI Avg: -63.19672131147541, SF: 7, BW: 500 frogeye_1005_5_1.jpeg
+Missed Bytes: 0, First Time: 4.210186243057251, Final Time: 4.210186243057251, RSSI Avg: -56.51, SF: 7, BW: 500 frogeye_1005_5_3.jpeg
+Missed Bytes: 0, First Time: 3.9347782135009766, Final Time: 3.935791492462158, RSSI Avg: -57.064516129032256, SF: 7, BW: 500 frogeye_1005_5_4.jpeg
+Missed Bytes: 0, First Time: 5.616689682006836, Final Time: 5.617751121520996, RSSI Avg: -53.6015037593985, SF: 7, BW: 500 frogeye_1005_3_4.jpeg
+Missed Bytes: 0, First Time: 4.179791212081909, Final Time: 4.180934429168701, RSSI Avg: -56.38383838383838, SF: 7, BW: 500 frogeye_1005_4_4.jpeg
+Missed Bytes: 0, First Time: 2.5763607025146484, Final Time: 2.5763607025146484, RSSI Avg: -63.36065573770492, SF: 7, BW: 500 frogeye_1005_5_1.jpeg
+Missed Bytes: 0, First Time: 4.220350503921509, Final Time: 4.220350503921509, RSSI Avg: -56.36, SF: 7, BW: 500 frogeye_1005_5_3.jpeg
+Missed Bytes: 0, First Time: 3.9323630332946777, Final Time: 3.9333605766296387, RSSI Avg: -57.043010752688176, SF: 7, BW: 500 frogeye_1005_5_4.jpeg
+Missed Bytes: 0, First Time: 5.621842622756958, Final Time: 5.621842622756958, RSSI Avg: -53.556390977443606, SF: 7, BW: 500 frogeye_1005_3_4.jpeg
+Missed Bytes: 0, First Time: 4.181119203567505, Final Time: 4.181501388549805, RSSI Avg: -56.313131313131315, SF: 7, BW: 500 frogeye_1005_4_4.jpeg
+Missed Bytes: 0, First Time: 2.5702409744262695, Final Time: 2.5702409744262695, RSSI Avg: -63.24590163934426, SF: 7, BW: 500 frogeye_1005_5_1.jpeg
+Missed Bytes: 0, First Time: 4.230546474456787, Final Time: 4.2316412925720215, RSSI Avg: -56.23, SF: 7, BW: 500 frogeye_1005_5_3.jpeg
+Missed Bytes: 0, First Time: 3.9171812534332275, Final Time: 3.9171812534332275, RSSI Avg: -57.064516129032256, SF: 7, BW: 500 frogeye_1005_5_4.jpeg
+Missed Bytes: 0, First Time: 5.616679430007935, Final Time: 5.6173975467681885, RSSI Avg: -53.57142857142857, SF: 7, BW: 500 frogeye_1005_3_4.jpeg
+Missed Bytes: 0, First Time: 4.17725396156311, Final Time: 4.17725396156311, RSSI Avg: -56.36363636363637, SF: 7, BW: 500 frogeye_1005_4_4.jpeg
+Missed Bytes: 0, First Time: 2.5792624950408936, Final Time: 2.580794095993042, RSSI Avg: -63.18032786885246, SF: 7, BW: 500 frogeye_1005_5_1.jpeg
+Missed Bytes: 0, First Time: 4.227879285812378, Final Time: 4.22857141494751, RSSI Avg: -56.28, SF: 7, BW: 500 frogeye_1005_5_3.jpeg
+Missed Bytes: 0, First Time: 3.9295880794525146, Final Time: 3.9309308528900146, RSSI Avg: -57.29032258064516, SF: 7, BW: 500 frogeye_1005_5_4.jpeg
+Missed Bytes: 0, First Time: 5.617974042892456, Final Time: 5.618585824966431, RSSI Avg: -53.99248120300752, SF: 7, BW: 500 frogeye_1005_3_4.jpeg
+Missed Bytes: 0, First Time: 4.186439275741577, Final Time: 4.186439275741577, RSSI Avg: -56.85858585858586, SF: 7, BW: 500 frogeye_1005_4_4.jpeg
+Missed Bytes: 0, First Time: 2.5687758922576904, Final Time: 2.5687758922576904, RSSI Avg: -62.885245901639344, SF: 7, BW: 500 frogeye_1005_5_1.jpeg
+Missed Bytes: 0, First Time: 5.664355516433716, Final Time: 5.664355516433716, RSSI Avg: -56.43609022556391, SF: 7, BW: 500 frogeye_1005_3_4.jpeg
+Missed Bytes: 0, First Time: 4.184111595153809, Final Time: 4.199718236923218, RSSI Avg: -59.686868686868685, SF: 7, BW: 500 frogeye_1005_4_4.jpeg
+Missed Bytes: 0, First Time: 2.5809764862060547, Final Time: 2.5809764862060547, RSSI Avg: -66.9672131147541, SF: 7, BW: 500 frogeye_1005_5_1.jpeg
+Missed Bytes: 64, First Time: 4.2283947467803955, Final Time: 34.33947539329529, RSSI Avg: -58.45, SF: 7, BW: 500 frogeye_1005_5_3.jpeg
+Missed Bytes: 0, First Time: 3.940436601638794, Final Time: 3.940436601638794, RSSI Avg: -56.86021505376344, SF: 7, BW: 500 frogeye_1005_5_4.jpeg
+Missed Bytes: 64, First Time: 5.636756420135498, Final Time: 35.76756024360657, RSSI Avg: -53.7593984962406, SF: 7, BW: 500 frogeye_1005_3_4.jpeg
+Missed Bytes: 64, First Time: 4.194131135940552, Final Time: 34.30973958969116, RSSI Avg: -56.666666666666664, SF: 7, BW: 500 frogeye_1005_4_4.jpeg
+Missed Bytes: 0, First Time: 2.5762734413146973, Final Time: 2.5762734413146973, RSSI Avg: -63.032786885245905, SF: 7, BW: 500 frogeye_1005_5_1.jpeg
+Missed Bytes: 0, First Time: 4.228063344955444, Final Time: 4.228063344955444, RSSI Avg: -56.09, SF: 7, BW: 500 frogeye_1005_5_3.jpeg
+Missed Bytes: 0, First Time: 3.915179491043091, Final Time: 3.915179491043091, RSSI Avg: -56.903225806451616, SF: 7, BW: 500 frogeye_1005_5_4.jpeg
+Missed Bytes: 0, First Time: 5.601185083389282, Final Time: 5.601185083389282, RSSI Avg: -53.46616541353384, SF: 7, BW: 500 frogeye_1005_3_4.jpeg
+Missed Bytes: 0, First Time: 4.136759042739868, Final Time: 4.136759042739868, RSSI Avg: -56.35353535353536, SF: 7, BW: 500 frogeye_1005_4_4.jpeg
+Missed Bytes: 0, First Time: 2.5779201984405518, Final Time: 2.5779201984405518, RSSI Avg: -62.98360655737705, SF: 7, BW: 500 frogeye_1005_5_1.jpeg
+Missed Bytes: 0, First Time: 4.201728343963623, Final Time: 4.201728343963623, RSSI Avg: -56.07, SF: 7, BW: 500 frogeye_1005_5_3.jpeg
+Missed Bytes: 0, First Time: 3.912578582763672, Final Time: 3.92820143699646, RSSI Avg: -56.30107526881721, SF: 7, BW: 500 frogeye_1005_5_4.jpeg
+Missed Bytes: 0, First Time: 5.62061071395874, Final Time: 5.62061071395874, RSSI Avg: -53.30827067669173, SF: 7, BW: 500 frogeye_1005_3_4.jpeg
+Missed Bytes: 0, First Time: 4.177008152008057, Final Time: 4.177008152008057, RSSI Avg: -55.78787878787879, SF: 7, BW: 500 frogeye_1005_4_4.jpeg
+Missed Bytes: 64, First Time: 2.5753750801086426, Final Time: 32.703718423843384, RSSI Avg: -63.91803278688525, SF: 7, BW: 500 frogeye_1005_5_1.jpeg
+Missed Bytes: 0, First Time: 5.651211261749268, Final Time: 5.651211261749268, RSSI Avg: -53.49624060150376, SF: 7, BW: 500 frogeye_1005_3_4.jpeg
+Missed Bytes: 64, First Time: 4.269798517227173, Final Time: 34.383177280426025, RSSI Avg: -57.7, SF: 7, BW: 500 frogeye_1005_5_3.jpeg
+Missed Bytes: 0, First Time: 3.922438383102417, Final Time: 3.922438383102417, RSSI Avg: -59.30107526881721, SF: 7, BW: 500 frogeye_1005_5_4.jpeg
+Missed Bytes: 0, First Time: 2.5760369300842285, Final Time: 2.5760369300842285, RSSI Avg: -64.60655737704919, SF: 7, BW: 500 frogeye_1005_5_1.jpeg
+Missed Bytes: 64, First Time: 5.622172832489014, Final Time: 35.72085356712341, RSSI Avg: -54.766917293233085, SF: 7, BW: 500 frogeye_1005_3_4.jpeg
+Missed Bytes: 0, First Time: 4.1920435428619385, Final Time: 4.1920435428619385, RSSI Avg: -57.03030303030303, SF: 7, BW: 500 frogeye_1005_4_4.jpeg
+Missed Bytes: 0, First Time: 5.652654647827148, Final Time: 5.652654647827148, RSSI Avg: -53.902255639097746, SF: 7, BW: 500 frogeye_1005_3_4.jpeg
+Missed Bytes: 0, First Time: 4.1828906536102295, Final Time: 4.1828906536102295, RSSI Avg: -59.303030303030305, SF: 7, BW: 500 frogeye_1005_4_4.jpeg
+Missed Bytes: 0, First Time: 2.554196834564209, Final Time: 2.554196834564209, RSSI Avg: -66.26229508196721, SF: 7, BW: 500 frogeye_1005_5_1.jpeg
+Missed Bytes: 0, First Time: 4.225463151931763, Final Time: 4.225463151931763, RSSI Avg: -58.96, SF: 7, BW: 500 frogeye_1005_5_3.jpeg
+Missed Bytes: 0, First Time: 3.9383206367492676, Final Time: 3.9383206367492676, RSSI Avg: -60.494623655913976, SF: 7, BW: 500 frogeye_1005_5_4.jpeg
+Missed Bytes: 0, First Time: 5.681130647659302, Final Time: 5.681130647659302, RSSI Avg: -51.24812030075188, SF: 7, BW: 500 frogeye_1005_3_4.jpeg
+Missed Bytes: 64, First Time: 4.182077169418335, Final Time: 34.29988241195679, RSSI Avg: -55.14141414141414, SF: 7, BW: 500 frogeye_1005_4_4.jpeg
+Missed Bytes: 0, First Time: 2.5807204246520996, Final Time: 2.5807204246520996, RSSI Avg: -61.63934426229508, SF: 7, BW: 500 frogeye_1005_5_1.jpeg
+Missed Bytes: 0, First Time: 4.226153612136841, Final Time: 4.227072477340698, RSSI Avg: -54.69, SF: 7, BW: 500 frogeye_1005_5_3.jpeg
+Missed Bytes: 0, First Time: 5.655601263046265, Final Time: 5.655601263046265, RSSI Avg: -53.51127819548872, SF: 7, BW: 500 frogeye_1005_3_4.jpeg
+Missed Bytes: 0, First Time: 4.1798622608184814, Final Time: 4.1798622608184814, RSSI Avg: -56.333333333333336, SF: 7, BW: 500 frogeye_1005_4_4.jpeg
+Missed Bytes: 0, First Time: 2.581169843673706, Final Time: 2.596877098083496, RSSI Avg: -63.21311475409836, SF: 7, BW: 500 frogeye_1005_5_1.jpeg
+Missed Bytes: 0, First Time: 4.240372657775879, Final Time: 4.240372657775879, RSSI Avg: -56.24, SF: 7, BW: 500 frogeye_1005_5_3.jpeg
+Missed Bytes: 0, First Time: 3.9400064945220947, Final Time: 3.9400064945220947, RSSI Avg: -57.1505376344086, SF: 7, BW: 500 frogeye_1005_5_4.jpeg
+Missed Bytes: 0, First Time: 4.264768123626709, Final Time: 4.265650987625122, RSSI Avg: -56.55, SF: 7, BW: 500 frogeye_1005_5_3.jpeg
+Missed Bytes: 0, First Time: 3.9274649620056152, Final Time: 3.9431188106536865, RSSI Avg: -57.505376344086024, SF: 7, BW: 500 frogeye_1005_5_4.jpeg
+Missed Bytes: 64, First Time: 2.5786328315734863, Final Time: 32.697091817855835, RSSI Avg: -63.950819672131146, SF: 7, BW: 500 frogeye_1005_5_1.jpeg
+Missed Bytes: 0, First Time: 5.6227593421936035, Final Time: 5.6227593421936035, RSSI Avg: -53.609022556390975, SF: 7, BW: 500 frogeye_1005_3_4.jpeg
+Missed Bytes: 0, First Time: 4.174906492233276, Final Time: 4.174906492233276, RSSI Avg: -56.25252525252525, SF: 7, BW: 500 frogeye_1005_4_4.jpeg
+Missed Bytes: 0, First Time: 6.483443737030029, Final Time: 6.483443737030029, RSSI Avg: -48.984962406015036, SF: 7, BW: 500 frogeye_1005_3_4.jpeg
+Missed Bytes: 0, First Time: 6.499843597412109, Final Time: 6.50083589553833, RSSI Avg: -50.49624060150376, SF: 7, BW: 500 frogeye_1005_3_4.jpeg
+Missed Bytes: 0, First Time: 4.806243181228638, Final Time: 4.806243181228638, RSSI Avg: -53.18181818181818, SF: 7, BW: 500 frogeye_1005_4_4.jpeg
+Missed Bytes: 0, First Time: 2.9769973754882812, Final Time: 2.979005813598633, RSSI Avg: -59.81967213114754, SF: 7, BW: 500 frogeye_1005_5_1.jpeg
+Missed Bytes: 0, First Time: 4.838871479034424, Final Time: 4.838871479034424, RSSI Avg: -53.04, SF: 7, BW: 500 frogeye_1005_5_3.jpeg
+Missed Bytes: 0, First Time: 4.4901933670043945, Final Time: 4.4901933670043945, RSSI Avg: -54.096774193548384, SF: 7, BW: 500 frogeye_1005_5_4.jpeg
+Missed Bytes: 0, First Time: 4.85772180557251, Final Time: 4.85772180557251, RSSI Avg: -54.16, SF: 7, BW: 500 frogeye_1005_5_3.jpeg
+Missed Bytes: 0, First Time: 4.484272241592407, Final Time: 4.484272241592407, RSSI Avg: -55.763440860215056, SF: 7, BW: 500 frogeye_1005_5_4.jpeg
+Missed Bytes: 0, First Time: 2.947532892227173, Final Time: 2.947532892227173, RSSI Avg: -61.18032786885246, SF: 7, BW: 500 frogeye_1005_5_1.jpeg
+Missed Bytes: 0, First Time: 6.450257301330566, Final Time: 6.450257301330566, RSSI Avg: -51.11278195488722, SF: 7, BW: 500 frogeye_1005_3_4.jpeg
+Missed Bytes: 0, First Time: 4.788661003112793, Final Time: 4.788661003112793, RSSI Avg: -53.41414141414141, SF: 7, BW: 500 frogeye_1005_4_4.jpeg
+Missed Bytes: 64, First Time: 4.863061189651489, Final Time: 35.00647950172424, RSSI Avg: -56.58, SF: 7, BW: 500 frogeye_1005_5_3.jpeg
+Missed Bytes: 0, First Time: 4.508771657943726, Final Time: 4.509758234024048, RSSI Avg: -59.096774193548384, SF: 7, BW: 500 frogeye_1005_5_4.jpeg
+Missed Bytes: 0, First Time: 2.961920738220215, Final Time: 2.9633615016937256, RSSI Avg: -66.09836065573771, SF: 7, BW: 500 frogeye_1005_5_1.jpeg
+Missed Bytes: 0, First Time: 6.4420387744903564, Final Time: 6.443618059158325, RSSI Avg: -56.41353383458647, SF: 7, BW: 500 frogeye_1005_3_4.jpeg
+Missed Bytes: 0, First Time: 4.793200492858887, Final Time: 4.794217824935913, RSSI Avg: -59.464646464646464, SF: 7, BW: 500 frogeye_1005_4_4.jpeg
+Missed Bytes: 0, First Time: 4.869692087173462, Final Time: 4.870713472366333, RSSI Avg: -59.09, SF: 7, BW: 500 frogeye_1005_5_3.jpeg
+Missed Bytes: 0, First Time: 4.515488147735596, Final Time: 4.517248153686523, RSSI Avg: -59.473118279569896, SF: 7, BW: 500 frogeye_1005_5_4.jpeg
+Missed Bytes: 0, First Time: 2.9493274688720703, Final Time: 2.9493274688720703, RSSI Avg: -66.63934426229508, SF: 7, BW: 500 frogeye_1005_5_1.jpeg
+Missed Bytes: 0, First Time: 6.446016788482666, Final Time: 6.447031259536743, RSSI Avg: -56.766917293233085, SF: 7, BW: 500 frogeye_1005_3_4.jpeg
+Missed Bytes: 0, First Time: 4.801859140396118, Final Time: 4.803858518600464, RSSI Avg: -60.101010101010104, SF: 7, BW: 500 frogeye_1005_4_4.jpeg
+Missed Bytes: 0, First Time: 4.809858798980713, Final Time: 4.809858798980713, RSSI Avg: -58.51, SF: 7, BW: 500 frogeye_1005_5_3.jpeg
+Missed Bytes: 0, First Time: 4.494253635406494, Final Time: 4.494253635406494, RSSI Avg: -58.11827956989247, SF: 7, BW: 500 frogeye_1005_5_4.jpeg
+Missed Bytes: 0, First Time: 2.959012985229492, Final Time: 2.959012985229492, RSSI Avg: -64.44262295081967, SF: 7, BW: 500 frogeye_1005_5_1.jpeg
+Missed Bytes: 0, First Time: 6.449416160583496, Final Time: 6.449416160583496, RSSI Avg: -52.17293233082707, SF: 7, BW: 500 frogeye_1005_3_4.jpeg
+Missed Bytes: 0, First Time: 4.797699689865112, Final Time: 4.797699689865112, RSSI Avg: -56.7979797979798, SF: 7, BW: 500 frogeye_1005_4_4.jpeg
+Missed Bytes: 64, First Time: 4.85520339012146, Final Time: 34.996443033218384, RSSI Avg: -59.42, SF: 7, BW: 500 frogeye_1005_5_3.jpeg
+Missed Bytes: 0, First Time: 4.519148111343384, Final Time: 4.519148111343384, RSSI Avg: -59.774193548387096, SF: 7, BW: 500 frogeye_1005_5_4.jpeg
+Missed Bytes: 0, First Time: 2.9695608615875244, Final Time: 2.9695608615875244, RSSI Avg: -66.95081967213115, SF: 7, BW: 500 frogeye_1005_5_1.jpeg
+Missed Bytes: 64, First Time: 6.416915655136108, Final Time: 36.55425548553467, RSSI Avg: -57.11278195488722, SF: 7, BW: 500 frogeye_1005_3_4.jpeg
+Missed Bytes: 0, First Time: 4.7955029010772705, Final Time: 4.7955029010772705, RSSI Avg: -59.54545454545455, SF: 7, BW: 500 frogeye_1005_4_4.jpeg
+Missed Bytes: 0, First Time: 4.867284297943115, Final Time: 4.867284297943115, RSSI Avg: -60.1, SF: 7, BW: 500 frogeye_1005_5_3.jpeg
+Missed Bytes: 0, First Time: 4.517312526702881, Final Time: 4.5183093547821045, RSSI Avg: -61.75268817204301, SF: 7, BW: 500 frogeye_1005_5_4.jpeg
+Missed Bytes: 0, First Time: 2.9695215225219727, Final Time: 2.9695215225219727, RSSI Avg: -67.55737704918033, SF: 7, BW: 500 frogeye_1005_5_1.jpeg
+Missed Bytes: 0, First Time: 6.448827266693115, Final Time: 6.448827266693115, RSSI Avg: -56.766917293233085, SF: 7, BW: 500 frogeye_1005_3_4.jpeg
+Missed Bytes: 0, First Time: 4.805375814437866, Final Time: 4.805375814437866, RSSI Avg: -58.86868686868687, SF: 7, BW: 500 frogeye_1005_4_4.jpeg
+Missed Bytes: 0, First Time: 4.8564722537994385, Final Time: 4.858470678329468, RSSI Avg: -51.44, SF: 7, BW: 500 frogeye_1005_5_3.jpeg
+Missed Bytes: 128, First Time: 4.499247789382935, Final Time: 34.69445776939392, RSSI Avg: -52.56989247311828, SF: 7, BW: 500 frogeye_1005_5_4.jpeg
+Missed Bytes: 0, First Time: 2.9564645290374756, Final Time: 2.9570815563201904, RSSI Avg: -59.278688524590166, SF: 7, BW: 500 frogeye_1005_5_1.jpeg
+Missed Bytes: 0, First Time: 6.45098352432251, Final Time: 6.451701402664185, RSSI Avg: -50.93984962406015, SF: 7, BW: 500 frogeye_1005_3_4.jpeg
+Missed Bytes: 0, First Time: 4.855981826782227, Final Time: 4.855981826782227, RSSI Avg: -52.91, SF: 7, BW: 500 frogeye_1005_5_3.jpeg
+Missed Bytes: 0, First Time: 4.501492738723755, Final Time: 4.51010537147522, RSSI Avg: -53.56989247311828, SF: 7, BW: 500 frogeye_1005_5_4.jpeg
+Missed Bytes: 0, First Time: 4.875133991241455, Final Time: 4.876133918762207, RSSI Avg: -54.33, SF: 7, BW: 500 frogeye_1005_5_3.jpeg
+Missed Bytes: 0, First Time: 4.491925954818726, Final Time: 4.499810695648193, RSSI Avg: -54.365591397849464, SF: 7, BW: 500 frogeye_1005_5_4.jpeg
+Missed Bytes: 0, First Time: 2.9581756591796875, Final Time: 2.9581756591796875, RSSI Avg: -60.18032786885246, SF: 7, BW: 500 frogeye_1005_5_1.jpeg
+Missed Bytes: 0, First Time: 6.460021495819092, Final Time: 6.460021495819092, RSSI Avg: -53.43609022556391, SF: 7, BW: 500 frogeye_1005_3_4.jpeg
+Missed Bytes: 0, First Time: 4.8069212436676025, Final Time: 4.808014869689941, RSSI Avg: -57.39393939393939, SF: 7, BW: 500 frogeye_1005_4_4.jpeg
+Missed Bytes: 0, First Time: 4.884978771209717, Final Time: 4.884978771209717, RSSI Avg: -52.76, SF: 7, BW: 500 frogeye_1005_5_3.jpeg
+Missed Bytes: 0, First Time: 4.5127222537994385, Final Time: 4.5127222537994385, RSSI Avg: -54.645161290322584, SF: 7, BW: 500 frogeye_1005_5_4.jpeg
+Missed Bytes: 0, First Time: 2.9670820236206055, Final Time: 2.9670820236206055, RSSI Avg: -60.459016393442624, SF: 7, BW: 500 frogeye_1005_5_1.jpeg
+Missed Bytes: 0, First Time: 6.447818756103516, Final Time: 6.46344256401062, RSSI Avg: -51.30827067669173, SF: 7, BW: 500 frogeye_1005_3_4.jpeg
+Missed Bytes: 0, First Time: 4.812202453613281, Final Time: 4.812202453613281, RSSI Avg: -52.323232323232325, SF: 7, BW: 500 frogeye_1005_4_4.jpeg
+Missed Bytes: 0, First Time: 4.867302179336548, Final Time: 4.867302179336548, RSSI Avg: -53.97, SF: 7, BW: 500 frogeye_1005_5_3.jpeg
+Missed Bytes: 0, First Time: 4.512220621109009, Final Time: 4.512220621109009, RSSI Avg: -53.61290322580645, SF: 7, BW: 500 frogeye_1005_5_4.jpeg
+Missed Bytes: 0, First Time: 2.965388059616089, Final Time: 2.965388059616089, RSSI Avg: -59.557377049180324, SF: 7, BW: 500 frogeye_1005_5_1.jpeg
+Missed Bytes: 0, First Time: 6.440709829330444, Final Time: 6.440709829330444, RSSI Avg: -50.526315789473685, SF: 7, BW: 500 frogeye_1005_3_4.jpeg
+Missed Bytes: 0, First Time: 4.778958559036255, Final Time: 4.794581413269043, RSSI Avg: -53.17171717171717, SF: 7, BW: 500 frogeye_1005_4_4.jpeg
+Missed Bytes: 0, First Time: 4.876600980758667, Final Time: 4.876600980758667, RSSI Avg: -51.65, SF: 7, BW: 500 frogeye_1005_5_3.jpeg
+Missed Bytes: 0, First Time: 4.5154359340667725, Final Time: 4.5154359340667725, RSSI Avg: -52.763440860215056, SF: 7, BW: 500 frogeye_1005_5_4.jpeg
+Missed Bytes: 0, First Time: 2.9616646766662598, Final Time: 2.9616646766662598, RSSI Avg: -58.967213114754095, SF: 7, BW: 500 frogeye_1005_5_1.jpeg
+Missed Bytes: 0, First Time: 6.465332508087158, Final Time: 6.4673261642456055, RSSI Avg: -49.27067669172932, SF: 7, BW: 500 frogeye_1005_3_4.jpeg
+Missed Bytes: 0, First Time: 4.8162596225738525, Final Time: 4.8162596225738525, RSSI Avg: -51.96969696969697, SF: 7, BW: 500 frogeye_1005_4_4.jpeg
+Missed Bytes: 0, First Time: 4.875564813613892, Final Time: 4.877105474472046, RSSI Avg: -51.96, SF: 7, BW: 500 frogeye_1005_5_3.jpeg
+Missed Bytes: 0, First Time: 4.5155298709869385, Final Time: 4.5155298709869385, RSSI Avg: -52.806451612903224, SF: 7, BW: 500 frogeye_1005_5_4.jpeg
+Missed Bytes: 0, First Time: 2.966712713241577, Final Time: 2.96773624420166, RSSI Avg: -59.049180327868854, SF: 7, BW: 500 frogeye_1005_5_1.jpeg
+Missed Bytes: 0, First Time: 6.433851957321167, Final Time: 6.447377443313599, RSSI Avg: -49.721804511278194, SF: 7, BW: 500 frogeye_1005_3_4.jpeg
+Missed Bytes: 64, First Time: 4.790686130523682, Final Time: 34.925437211990356, RSSI Avg: -52.63636363636363, SF: 7, BW: 500 frogeye_1005_4_4.jpeg
+Missed Bytes: 0, First Time: 4.866225957870483, Final Time: 4.866882085800171, RSSI Avg: -51.45, SF: 7, BW: 500 frogeye_1005_5_3.jpeg
+Missed Bytes: 0, First Time: 4.494091987609863, Final Time: 4.494091987609863, RSSI Avg: -52.193548387096776, SF: 7, BW: 500 frogeye_1005_5_4.jpeg
+Missed Bytes: 0, First Time: 2.9413743019104004, Final Time: 2.9523415565490723, RSSI Avg: -57.83606557377049, SF: 7, BW: 500 frogeye_1005_5_1.jpeg
+Missed Bytes: 0, First Time: 6.425200939178467, Final Time: 6.425200939178467, RSSI Avg: -49.203007518796994, SF: 7, BW: 500 frogeye_1005_3_4.jpeg
+Missed Bytes: 64, First Time: 4.78692626953125, Final Time: 34.91933274269104, RSSI Avg: -52.26262626262626, SF: 7, BW: 500 frogeye_1005_4_4.jpeg
+Missed Bytes: 0, First Time: 4.851331472396851, Final Time: 4.851331472396851, RSSI Avg: -52.04, SF: 7, BW: 500 frogeye_1005_5_3.jpeg
+Missed Bytes: 0, First Time: 4.505768060684204, Final Time: 4.505768060684204, RSSI Avg: -53.193548387096776, SF: 7, BW: 500 frogeye_1005_5_4.jpeg
+Missed Bytes: 0, First Time: 2.9605751037597656, Final Time: 2.961576223373413, RSSI Avg: -58.721311475409834, SF: 7, BW: 500 frogeye_1005_5_1.jpeg
+Missed Bytes: 0, First Time: 6.455146074295044, Final Time: 6.455146074295044, RSSI Avg: -50.233082706766915, SF: 7, BW: 500 frogeye_1005_3_4.jpeg
+Missed Bytes: 0, First Time: 4.805342674255371, Final Time: 4.805342674255371, RSSI Avg: -52.535353535353536, SF: 7, BW: 500 frogeye_1005_4_4.jpeg
+Missed Bytes: 64, First Time: 4.828866004943848, Final Time: 34.9615912437439, RSSI Avg: -64.31, SF: 7, BW: 500 frogeye_1005_5_3.jpeg
+Missed Bytes: 0, First Time: 4.500928163528442, Final Time: 4.500928163528442, RSSI Avg: -61.29032258064516, SF: 7, BW: 500 frogeye_1005_5_4.jpeg
+Missed Bytes: 64, First Time: 2.9484856128692627, Final Time: 33.0927152633667, RSSI Avg: -71.95081967213115, SF: 7, BW: 500 frogeye_1005_5_1.jpeg
+Missed Bytes: 0, First Time: 6.447645425796509, Final Time: 6.447645425796509, RSSI Avg: -57.63157894736842, SF: 7, BW: 500 frogeye_1005_3_4.jpeg
+Missed Bytes: 0, First Time: 4.783707857131958, Final Time: 4.783707857131958, RSSI Avg: -62.05050505050505, SF: 7, BW: 500 frogeye_1005_4_4.jpeg
+Missed Bytes: 0, First Time: 4.8606977462768555, Final Time: 4.8606977462768555, RSSI Avg: -59.83, SF: 7, BW: 500 frogeye_1005_5_3.jpeg
+Missed Bytes: 0, First Time: 4.517876386642456, Final Time: 4.517876386642456, RSSI Avg: -60.354838709677416, SF: 7, BW: 500 frogeye_1005_5_4.jpeg
+Missed Bytes: 0, First Time: 2.968104124069214, Final Time: 2.968104124069214, RSSI Avg: -67.0327868852459, SF: 7, BW: 500 frogeye_1005_5_1.jpeg
+Missed Bytes: 0, First Time: 6.4336607456207275, Final Time: 6.4336607456207275, RSSI Avg: -59.1578947368421, SF: 7, BW: 500 frogeye_1005_3_4.jpeg
+Missed Bytes: 0, First Time: 4.817694902420044, Final Time: 4.817694902420044, RSSI Avg: -60.464646464646464, SF: 7, BW: 500 frogeye_1005_4_4.jpeg
+Missed Bytes: 0, First Time: 4.855175971984863, Final Time: 4.855175971984863, RSSI Avg: -61.56, SF: 7, BW: 500 frogeye_1005_5_3.jpeg
+Missed Bytes: 64, First Time: 4.5133044719696045, Final Time: 34.637736558914185, RSSI Avg: -64.93548387096774, SF: 7, BW: 500 frogeye_1005_5_4.jpeg
+Missed Bytes: 0, First Time: 2.9623894691467285, Final Time: 2.978013277053833, RSSI Avg: -67.22950819672131, SF: 7, BW: 500 frogeye_1005_5_1.jpeg
+Missed Bytes: 0, First Time: 6.478165626525879, Final Time: 6.478165626525879, RSSI Avg: -61.54135338345865, SF: 7, BW: 500 frogeye_1005_3_4.jpeg
+Missed Bytes: 0, First Time: 4.806659460067749, Final Time: 4.806659460067749, RSSI Avg: -60.21212121212121, SF: 7, BW: 500 frogeye_1005_4_4.jpeg
+Missed Bytes: 0, First Time: 4.854790687561035, Final Time: 4.854790687561035, RSSI Avg: -58.77, SF: 7, BW: 500 frogeye_1005_5_3.jpeg
+Missed Bytes: 0, First Time: 4.405693054199219, Final Time: 4.405693054199219, RSSI Avg: -59.27956989247312, SF: 7, BW: 500 frogeye_1005_5_4.jpeg
+Missed Bytes: 0, First Time: 2.9533777236938477, Final Time: 2.9533777236938477, RSSI Avg: -66.42622950819673, SF: 7, BW: 500 frogeye_1005_5_1.jpeg
+Missed Bytes: 0, First Time: 6.3204169273376465, Final Time: 6.3204169273376465, RSSI Avg: -56.65413533834587, SF: 7, BW: 500 frogeye_1005_3_4.jpeg
+Missed Bytes: 0, First Time: 4.805656433105469, Final Time: 4.805656433105469, RSSI Avg: -60.13131313131313, SF: 7, BW: 500 frogeye_1005_4_4.jpeg
+Missed Bytes: 0, First Time: 4.863036394119263, Final Time: 4.863036394119263, RSSI Avg: -59.08, SF: 7, BW: 500 frogeye_1005_5_3.jpeg
+Missed Bytes: 0, First Time: 4.502590894699097, Final Time: 4.502590894699097, RSSI Avg: -59.55913978494624, SF: 7, BW: 500 frogeye_1005_5_4.jpeg
+Missed Bytes: 0, First Time: 2.9081225395202637, Final Time: 2.9081225395202637, RSSI Avg: -66.47540983606558, SF: 7, BW: 500 frogeye_1005_5_1.jpeg
+Missed Bytes: 0, First Time: 6.453092098236084, Final Time: 6.453092098236084, RSSI Avg: -55.984962406015036, SF: 7, BW: 500 frogeye_1005_3_4.jpeg
+Missed Bytes: 0, First Time: 4.7967588901519775, Final Time: 4.7967588901519775, RSSI Avg: -58.58585858585859, SF: 7, BW: 500 frogeye_1005_4_4.jpeg
+Missed Bytes: 0, First Time: 4.863913297653198, Final Time: 4.863913297653198, RSSI Avg: -59.24, SF: 7, BW: 500 frogeye_1005_5_3.jpeg
+Missed Bytes: 0, First Time: 4.524064540863037, Final Time: 4.524064540863037, RSSI Avg: -59.59139784946237, SF: 7, BW: 500 frogeye_1005_5_4.jpeg
+Missed Bytes: 0, First Time: 2.964466094970703, Final Time: 2.964466094970703, RSSI Avg: -65.1311475409836, SF: 7, BW: 500 frogeye_1005_5_1.jpeg
+Missed Bytes: 0, First Time: 6.447782754898071, Final Time: 6.447782754898071, RSSI Avg: -56.42857142857143, SF: 7, BW: 500 frogeye_1005_3_4.jpeg
+Missed Bytes: 0, First Time: 4.804126977920532, Final Time: 4.804126977920532, RSSI Avg: -59.666666666666664, SF: 7, BW: 500 frogeye_1005_4_4.jpeg
+Missed Bytes: 0, First Time: 4.860053539276123, Final Time: 4.860053539276123, RSSI Avg: -59.3, SF: 7, BW: 500 frogeye_1005_5_3.jpeg
+Missed Bytes: 0, First Time: 4.504558086395264, Final Time: 4.504558086395264, RSSI Avg: -60.46236559139785, SF: 7, BW: 500 frogeye_1005_5_4.jpeg
+Missed Bytes: 0, First Time: 2.959831476211548, Final Time: 2.959831476211548, RSSI Avg: -67.44262295081967, SF: 7, BW: 500 frogeye_1005_5_1.jpeg
+Missed Bytes: 0, First Time: 6.460033655166626, Final Time: 6.475808382034302, RSSI Avg: -56.99248120300752, SF: 7, BW: 500 frogeye_1005_3_4.jpeg
+Missed Bytes: 0, First Time: 4.797312498092651, Final Time: 4.797312498092651, RSSI Avg: -59.03030303030303, SF: 7, BW: 500 frogeye_1005_4_4.jpeg
+Missed Bytes: 0, First Time: 4.88447117805481, Final Time: 4.88447117805481, RSSI Avg: -59.29, SF: 7, BW: 500 frogeye_1005_5_3.jpeg
+Missed Bytes: 0, First Time: 4.501596927642822, Final Time: 4.501596927642822, RSSI Avg: -59.88172043010753, SF: 7, BW: 500 frogeye_1005_5_4.jpeg
+Missed Bytes: 0, First Time: 2.9560415744781494, Final Time: 2.9560415744781494, RSSI Avg: -66.9672131147541, SF: 7, BW: 500 frogeye_1005_5_1.jpeg
+Missed Bytes: 64, First Time: 6.4514100551605225, Final Time: 36.58820843696594, RSSI Avg: -57.857142857142854, SF: 7, BW: 500 frogeye_1005_3_4.jpeg
+Missed Bytes: 0, First Time: 4.806578636169434, Final Time: 4.806578636169434, RSSI Avg: -59.515151515151516, SF: 7, BW: 500 frogeye_1005_4_4.jpeg
+Missed Bytes: 0, First Time: 4.868418455123901, Final Time: 4.868418455123901, RSSI Avg: -58.45, SF: 7, BW: 500 frogeye_1005_5_3.jpeg
+Missed Bytes: 0, First Time: 4.501079320907593, Final Time: 4.501079320907593, RSSI Avg: -60.215053763440864, SF: 7, BW: 500 frogeye_1005_5_4.jpeg
+Missed Bytes: 0, First Time: 2.9595913887023926, Final Time: 2.9595913887023926, RSSI Avg: -66.19672131147541, SF: 7, BW: 500 frogeye_1005_5_1.jpeg
+Missed Bytes: 0, First Time: 6.452568531036377, Final Time: 6.452568531036377, RSSI Avg: -56.61654135338346, SF: 7, BW: 500 frogeye_1005_3_4.jpeg
+Missed Bytes: 0, First Time: 4.792128801345825, Final Time: 4.792128801345825, RSSI Avg: -58.86868686868687, SF: 7, BW: 500 frogeye_1005_4_4.jpeg
+Missed Bytes: 0, First Time: 0.8287811279296875, Final Time: 0.8287811279296875, RSSI Avg: -70.82352941176471, SF: 7, BW: 500 file1_7_0.jpeg
+Missed Bytes: 0, First Time: 0.8639912605285645, Final Time: 0.8653404712677002, RSSI Avg: -70.38888888888889, SF: 7, BW: 500 file1_5_7.jpeg
+Missed Bytes: 0, First Time: 0.6777956485748291, Final Time: 0.6777956485748291, RSSI Avg: -79.28571428571429, SF: 7, BW: 500 file1_7_3.jpeg
+Missed Bytes: 0, First Time: 1.0956230163574219, Final Time: 1.0956230163574219, RSSI Avg: -61.56521739130435, SF: 7, BW: 500 file1_7_7.jpeg
+Missed Bytes: 0, First Time: 0.910435676574707, Final Time: 0.910435676574707, RSSI Avg: -66.89473684210526, SF: 7, BW: 500 file1_7_2.jpeg
+Missed Bytes: 0, First Time: 0.7891788482666016, Final Time: 0.7891788482666016, RSSI Avg: -72.6470588235294, SF: 7, BW: 500 file1_7_0.jpeg
+Missed Bytes: 0, First Time: 0.82486891746521, Final Time: 0.82486891746521, RSSI Avg: -69.88888888888889, SF: 7, BW: 500 file1_5_7.jpeg
+Missed Bytes: 0, First Time: 0.6796932220458984, Final Time: 0.6796932220458984, RSSI Avg: -75.93333333333334, SF: 7, BW: 500 file1_7_3.jpeg
+Missed Bytes: 0, First Time: 1.0916688442230225, Final Time: 1.093184471130371, RSSI Avg: -60.083333333333336, SF: 7, BW: 500 file1_7_7.jpeg
+Missed Bytes: 0, First Time: 0.8792827129364014, Final Time: 0.8813247680664062, RSSI Avg: -67.94736842105263, SF: 7, BW: 500 file1_7_2.jpeg
+Missed Bytes: 0, First Time: 0.853644609451294, Final Time: 0.8561670780181885, RSSI Avg: -122.5, SF: 7, BW: 500 file1_3_5.jpeg
+Missed Bytes: 0, First Time: 0.8257670402526855, Final Time: 0.8257670402526855, RSSI Avg: -103.5625, SF: 7, BW: 500 file1_3_4.jpeg
+Missed Bytes: 0, First Time: 0.7844910621643066, Final Time: 0.7859981060028076, RSSI Avg: -115.4, SF: 7, BW: 500 file1_3_3.jpeg
+Missed Bytes: 0, First Time: 0.8274731636047363, Final Time: 0.8274731636047363, RSSI Avg: -122.25, SF: 7, BW: 500 file1_4_5.jpeg
+Missed Bytes: 0, First Time: 0.7085552215576172, Final Time: 0.7103085517883301, RSSI Avg: -112.0, SF: 7, BW: 500 file1_2_3.jpeg
+Missed Bytes: 0, First Time: 0.7890036106109619, Final Time: 0.7890036106109619, RSSI Avg: -106.2, SF: 7, BW: 500 file1_4_5.jpeg
+Missed Bytes: 0, First Time: 0.7837111949920654, Final Time: 0.7852449417114258, RSSI Avg: -112.53333333333333, SF: 7, BW: 500 file1_3_4.jpeg
+Missed Bytes: 0, First Time: 0.7320256233215332, Final Time: 0.7339894771575928, RSSI Avg: -121.92857142857143, SF: 7, BW: 500 file1_3_3.jpeg
+Missed Bytes: 0, First Time: 0.7483289241790771, Final Time: 0.7483289241790771, RSSI Avg: -121.21428571428571, SF: 7, BW: 500 file1_3_2.jpeg
+Missed Bytes: 0, First Time: 0.7603878974914551, Final Time: 0.7603878974914551, RSSI Avg: -116.6, SF: 7, BW: 500 file1_3_5.jpeg
+Missed Bytes: 0, First Time: 0.7418599128723145, Final Time: 0.7443697452545166, RSSI Avg: -77.3125, SF: 7, BW: 500 file1_7_2.jpeg
+Missed Bytes: 0, First Time: 0.7209875583648682, Final Time: 0.7312989234924316, RSSI Avg: -77.625, SF: 7, BW: 500 file1_7_5.jpeg
+Missed Bytes: 0, First Time: 0.7743732929229736, Final Time: 0.7760426998138428, RSSI Avg: -75.29411764705883, SF: 7, BW: 500 file1_5_6.jpeg
+Missed Bytes: 0, First Time: 0.6396806240081787, Final Time: 0.6408298015594482, RSSI Avg: -81.5, SF: 7, BW: 500 file1_7_1.jpeg
+Missed Bytes: 0, First Time: 0.7324090003967285, Final Time: 0.7333343029022217, RSSI Avg: -76.8125, SF: 7, BW: 500 file1_6_7.jpeg
+Missed Bytes: 0, First Time: 0.7268092632293701, Final Time: 0.7291965484619141, RSSI Avg: -76.8125, SF: 7, BW: 500 file1_7_5.jpeg
+Missed Bytes: 0, First Time: 0.7218055725097656, Final Time: 0.7218055725097656, RSSI Avg: -76.8125, SF: 7, BW: 500 file1_7_2.jpeg
+Missed Bytes: 0, First Time: 0.7707352638244629, Final Time: 0.7707352638244629, RSSI Avg: -74.94117647058823, SF: 7, BW: 500 file1_5_6.jpeg
+Missed Bytes: 0, First Time: 0.6381955146789551, Final Time: 0.6381955146789551, RSSI Avg: -83.78571428571429, SF: 7, BW: 500 file1_7_1.jpeg
+Missed Bytes: 0, First Time: 0.733102560043335, Final Time: 0.7354521751403809, RSSI Avg: -75.4375, SF: 7, BW: 500 file1_6_7.jpeg
+Missed Bytes: 0, First Time: 0.7350821495056152, Final Time: 0.7364180088043213, RSSI Avg: -77.5, SF: 7, BW: 500 file1_7_2.jpeg
+Missed Bytes: 0, First Time: 0.7221620082855225, Final Time: 0.7221620082855225, RSSI Avg: -78.6875, SF: 7, BW: 500 file1_7_5.jpeg
+Missed Bytes: 0, First Time: 0.7729377746582031, Final Time: 0.7729377746582031, RSSI Avg: -75.41176470588235, SF: 7, BW: 500 file1_5_6.jpeg
+Missed Bytes: 0, First Time: 0.64133620262146, Final Time: 0.64133620262146, RSSI Avg: -84.78571428571429, SF: 7, BW: 500 file1_7_1.jpeg
+Missed Bytes: 0, First Time: 0.771054744720459, Final Time: 0.7745518684387207, RSSI Avg: -75.6470588235294, SF: 7, BW: 500 file1_6_2.jpeg
+Missed Bytes: 0, First Time: 0.7407269477844238, Final Time: 0.7407269477844238, RSSI Avg: -76.375, SF: 7, BW: 500 file1_7_5.jpeg
+Missed Bytes: 0, First Time: 0.7227616310119629, Final Time: 0.7227616310119629, RSSI Avg: -75.4375, SF: 7, BW: 500 file1_7_2.jpeg
+Missed Bytes: 0, First Time: 0.7739005088806152, Final Time: 0.7739005088806152, RSSI Avg: -73.0, SF: 7, BW: 500 file1_5_6.jpeg
+Missed Bytes: 0, First Time: 0.638514518737793, Final Time: 0.6403987407684326, RSSI Avg: -81.71428571428571, SF: 7, BW: 500 file1_7_1.jpeg
+Missed Bytes: 0, First Time: 0.7345912456512451, Final Time: 0.7354693412780762, RSSI Avg: -75.1875, SF: 7, BW: 500 file1_6_7.jpeg
+Missed Bytes: 0, First Time: 0.7474877834320068, Final Time: 0.7474877834320068, RSSI Avg: -77.9375, SF: 7, BW: 500 file1_7_2.jpeg
+Missed Bytes: 0, First Time: 0.7332372665405273, Final Time: 0.7332372665405273, RSSI Avg: -78.1875, SF: 7, BW: 500 file1_7_5.jpeg
+Missed Bytes: 0, First Time: 0.7726869583129883, Final Time: 0.7726869583129883, RSSI Avg: -75.29411764705883, SF: 7, BW: 500 file1_5_6.jpeg
+Missed Bytes: 0, First Time: 0.6278598308563232, Final Time: 0.637763261795044, RSSI Avg: -84.5, SF: 7, BW: 500 file1_7_1.jpeg
+Missed Bytes: 0, First Time: 0.7755978107452393, Final Time: 0.7755978107452393, RSSI Avg: -76.23529411764706, SF: 7, BW: 500 file1_5_1.jpeg
+Missed Bytes: 0, First Time: 0.7469973564147949, Final Time: 0.7469973564147949, RSSI Avg: -73.5, SF: 7, BW: 500 file1_7_5.jpeg
+Missed Bytes: 0, First Time: 0.7235367298126221, Final Time: 0.7247710227966309, RSSI Avg: -75.4375, SF: 7, BW: 500 file1_7_2.jpeg
+Missed Bytes: 0, First Time: 0.7691531181335449, Final Time: 0.7712376117706299, RSSI Avg: -69.05882352941177, SF: 7, BW: 500 file1_5_6.jpeg
+Missed Bytes: 0, First Time: 0.6321356296539307, Final Time: 0.6321356296539307, RSSI Avg: -80.42857142857143, SF: 7, BW: 500 file1_7_1.jpeg
+Missed Bytes: 0, First Time: 0.7274661064147949, Final Time: 0.7298061847686768, RSSI Avg: -72.625, SF: 7, BW: 500 file1_6_7.jpeg
+Missed Bytes: 0, First Time: 0.7980873584747314, Final Time: 0.7980873584747314, RSSI Avg: -67.17647058823529, SF: 7, BW: 500 file1_7_2.jpeg
+Missed Bytes: 0, First Time: 0.7198996543884277, Final Time: 0.7198996543884277, RSSI Avg: -71.4375, SF: 7, BW: 500 file1_7_5.jpeg
+Missed Bytes: 0, First Time: 0.774550199508667, Final Time: 0.774550199508667, RSSI Avg: -71.58823529411765, SF: 7, BW: 500 file1_5_6.jpeg
+Missed Bytes: 0, First Time: 0.6400868892669678, Final Time: 0.6400868892669678, RSSI Avg: -76.42857142857143, SF: 7, BW: 500 file1_7_1.jpeg
+Missed Bytes: 0, First Time: 0.7288908958435059, Final Time: 0.7309439182281494, RSSI Avg: -68.4375, SF: 7, BW: 500 file1_6_7.jpeg
+Missed Bytes: 0, First Time: 0.7283997535705566, Final Time: 0.7387642860412598, RSSI Avg: -70.875, SF: 7, BW: 500 file1_7_5.jpeg
+Missed Bytes: 0, First Time: 0.7681803703308105, Final Time: 0.7681803703308105, RSSI Avg: -71.94117647058823, SF: 7, BW: 500 file1_7_2.jpeg
+Missed Bytes: 0, First Time: 0.7694892883300781, Final Time: 0.7715625762939453, RSSI Avg: -69.52941176470588, SF: 7, BW: 500 file1_5_6.jpeg
+Missed Bytes: 0, First Time: 0.6393394470214844, Final Time: 0.6393394470214844, RSSI Avg: -75.85714285714286, SF: 7, BW: 500 file1_7_1.jpeg
+Missed Bytes: 0, First Time: 0.7677245140075684, Final Time: 0.7677245140075684, RSSI Avg: -69.29411764705883, SF: 7, BW: 500 file1_5_1.jpeg
+Missed Bytes: 0, First Time: 0.7383527755737305, Final Time: 0.7401859760284424, RSSI Avg: -69.9375, SF: 7, BW: 500 file1_7_5.jpeg
+Missed Bytes: 0, First Time: 0.7307069301605225, Final Time: 0.732774019241333, RSSI Avg: -69.375, SF: 7, BW: 500 file1_7_2.jpeg
+Missed Bytes: 0, First Time: 0.7736058235168457, Final Time: 0.7736058235168457, RSSI Avg: -67.6470588235294, SF: 7, BW: 500 file1_5_6.jpeg
+Missed Bytes: 0, First Time: 0.6414973735809326, Final Time: 0.6431128978729248, RSSI Avg: -75.92857142857143, SF: 7, BW: 500 file1_7_1.jpeg
+Missed Bytes: 0, First Time: 0.7344973087310791, Final Time: 0.7370119094848633, RSSI Avg: -72.1875, SF: 7, BW: 500 file1_6_7.jpeg
+Missed Bytes: 0, First Time: 0.7368075847625732, Final Time: 0.7378122806549072, RSSI Avg: -74.875, SF: 7, BW: 500 file1_7_5.jpeg
+Missed Bytes: 0, First Time: 0.724074125289917, Final Time: 0.724074125289917, RSSI Avg: -71.875, SF: 7, BW: 500 file1_7_2.jpeg
+Missed Bytes: 0, First Time: 0.775285005569458, Final Time: 0.775285005569458, RSSI Avg: -72.23529411764706, SF: 7, BW: 500 file1_5_6.jpeg
+Missed Bytes: 0, First Time: 0.638117790222168, Final Time: 0.6404635906219482, RSSI Avg: -79.21428571428571, SF: 7, BW: 500 file1_7_1.jpeg
+Missed Bytes: 0, First Time: 0.7313289642333984, Final Time: 0.7347292900085449, RSSI Avg: -74.125, SF: 7, BW: 500 file1_7_4.jpeg
+Missed Bytes: 0, First Time: 0.7337632179260254, Final Time: 0.7337632179260254, RSSI Avg: -68.6875, SF: 7, BW: 500 file1_7_2.jpeg
+Missed Bytes: 0, First Time: 0.7238101959228516, Final Time: 0.7238101959228516, RSSI Avg: -70.6875, SF: 7, BW: 500 file1_7_5.jpeg
+Missed Bytes: 0, First Time: 0.7710955142974854, Final Time: 0.7727458477020264, RSSI Avg: -67.17647058823529, SF: 7, BW: 500 file1_5_6.jpeg
+Missed Bytes: 0, First Time: 0.7252891063690186, Final Time: 0.7266256809234619, RSSI Avg: -70.125, SF: 7, BW: 500 file1_6_7.jpeg
+Missed Bytes: 0, First Time: 0.6342065334320068, Final Time: 0.6378660202026367, RSSI Avg: -76.35714285714286, SF: 7, BW: 500 file1_7_1.jpeg
+Missed Bytes: 0, First Time: 0.7360970973968506, Final Time: 0.7360970973968506, RSSI Avg: -72.5625, SF: 7, BW: 500 file1_7_5.jpeg
+Missed Bytes: 0, First Time: 0.738318920135498, Final Time: 0.738318920135498, RSSI Avg: -71.875, SF: 7, BW: 500 file1_7_2.jpeg
+Missed Bytes: 0, First Time: 0.781867504119873, Final Time: 0.781867504119873, RSSI Avg: -71.6470588235294, SF: 7, BW: 500 file1_5_6.jpeg
+Missed Bytes: 0, First Time: 0.6358466148376465, Final Time: 0.6358466148376465, RSSI Avg: -77.14285714285714, SF: 7, BW: 500 file1_7_1.jpeg
+Missed Bytes: 0, First Time: 0.7485747337341309, Final Time: 0.7485747337341309, RSSI Avg: -68.375, SF: 7, BW: 500 file1_7_4.jpeg
+Missed Bytes: 0, First Time: 0.7821865081787109, Final Time: 0.7871909141540527, RSSI Avg: -71.70588235294117, SF: 7, BW: 500 file1_7_2.jpeg
+Missed Bytes: 0, First Time: 0.7465095520019531, Final Time: 0.7480809688568115, RSSI Avg: -69.625, SF: 7, BW: 500 file1_7_5.jpeg
+Missed Bytes: 0, First Time: 0.7744925022125244, Final Time: 0.7744925022125244, RSSI Avg: -67.82352941176471, SF: 7, BW: 500 file1_5_6.jpeg
+Missed Bytes: 0, First Time: 0.6265394687652588, Final Time: 0.6265394687652588, RSSI Avg: -75.78571428571429, SF: 7, BW: 500 file1_7_1.jpeg
+Missed Bytes: 0, First Time: 0.7752561569213867, Final Time: 0.7803127765655518, RSSI Avg: -67.76470588235294, SF: 7, BW: 500 file1_5_1.jpeg
+Missed Bytes: 0, First Time: 0.8181343078613281, Final Time: 0.8181343078613281, RSSI Avg: -91.83333333333333, SF: 7, BW: 500 file1_2_6.jpeg
+Missed Bytes: 0, First Time: 0.8255932331085205, Final Time: 0.8271048069000244, RSSI Avg: -90.77777777777777, SF: 7, BW: 500 file1_4_6.jpeg
+Missed Bytes: 0, First Time: 0.92118239402771, Final Time: 0.92118239402771, RSSI Avg: -87.05, SF: 7, BW: 500 file1_4_7.jpeg
+Missed Bytes: 0, First Time: 0.83211350440979, Final Time: 0.833132266998291, RSSI Avg: -92.44444444444444, SF: 7, BW: 500 file1_1_6.jpeg
+Missed Bytes: 0, First Time: 0.9190323352813721, Final Time: 0.9190323352813721, RSSI Avg: -86.75, SF: 7, BW: 500 file1_6_5.jpeg
+Missed Bytes: 0, First Time: 1.2443838119506836, Final Time: 1.2443838119506836, RSSI Avg: -76.62962962962963, SF: 7, BW: 500 file1_2_5.jpeg
+Missed Bytes: 0, First Time: 1.280090093612671, Final Time: 1.2804217338562012, RSSI Avg: -72.03571428571429, SF: 7, BW: 500 file1_3_5.jpeg
+Missed Bytes: 0, First Time: 1.3304176330566406, Final Time: 1.3314223289489746, RSSI Avg: -78.41379310344827, SF: 7, BW: 500 file1_3_6.jpeg
+Missed Bytes: 0, First Time: 1.1160228252410889, Final Time: 1.116530418395996, RSSI Avg: -96.875, SF: 7, BW: 500 file1_2_2.jpeg
+Missed Bytes: 0, First Time: 1.1956744194030762, Final Time: 1.1976871490478516, RSSI Avg: -96.44, SF: 7, BW: 500 file1_1_3.jpeg
+Missed Bytes: 0, First Time: 1.7879679203033447, Final Time: 1.7879679203033447, RSSI Avg: -34.717948717948715, SF: 7, BW: 500 0722-155359_7_3.jpeg
+Missed Bytes: 0, First Time: 1.1817841529846191, Final Time: 1.182734727859497, RSSI Avg: -41.46153846153846, SF: 7, BW: 500 0722-155359_5_4.jpeg
+Missed Bytes: 0, First Time: 1.0919575691223145, Final Time: 1.0944623947143555, RSSI Avg: -45.083333333333336, SF: 7, BW: 500 0722-155359_5_3.jpeg
+Missed Bytes: 64, First Time: 1.1866445541381836, Final Time: 31.316399335861206, RSSI Avg: -43.30769230769231, SF: 7, BW: 500 0722-155359_5_2.jpeg
+Missed Bytes: 0, First Time: 1.6856274604797363, Final Time: 1.687626838684082, RSSI Avg: -37.027027027027025, SF: 7, BW: 500 0722-155359_7_5.jpeg
+Missed Bytes: 0, First Time: 1.2520062923431396, Final Time: 1.2520062923431396, RSSI Avg: -44.44444444444444, SF: 7, BW: 500 0722-161518_5_4.jpeg
+Missed Bytes: 0, First Time: 1.9251410961151123, Final Time: 1.9251410961151123, RSSI Avg: -37.45238095238095, SF: 7, BW: 500 0722-161755_7_5.jpeg
+Missed Bytes: 0, First Time: 1.1979637145996094, Final Time: 1.1982145309448242, RSSI Avg: -45.88461538461539, SF: 7, BW: 500 0722-161755_5_5.jpeg
+Missed Bytes: 0, First Time: 1.2487061023712158, Final Time: 1.2501325607299805, RSSI Avg: -45.148148148148145, SF: 7, BW: 500 0722-161755_5_4.jpeg
+Missed Bytes: 0, First Time: 1.7564759254455566, Final Time: 1.7578034400939941, RSSI Avg: -38.39473684210526, SF: 7, BW: 500 0722-161755_6_3.jpeg
+Missed Bytes: 0, First Time: 1.7845780849456787, Final Time: 1.7858119010925293, RSSI Avg: -37.8974358974359, SF: 7, BW: 500 0722-161755_7_6.jpeg
+Missed Bytes: 1472, First Time: 1.9321930408477783, Final Time: 33.067471981048584, RSSI Avg: -29.69047619047619, SF: 7, BW: 500 0722-162801_7_5.jpeg
+Missed Bytes: 0, First Time: 1.2675695419311523, Final Time: 1.2786920070648193, RSSI Avg: -35.535714285714285, SF: 7, BW: 500 0722-162801_5_4.jpeg
+Missed Bytes: 0, First Time: 1.9881789684295654, Final Time: 1.9881789684295654, RSSI Avg: -38.325581395348834, SF: 7, BW: 500 0723-110252_6_7.jpeg
+Missed Bytes: 0, First Time: 1.4681751728057861, Final Time: 1.4681751728057861, RSSI Avg: -42.34375, SF: 7, BW: 500 0723-110252_4_7.jpeg
+Missed Bytes: 0, First Time: 1.414555311203003, Final Time: 1.4164700508117676, RSSI Avg: -44.03225806451613, SF: 7, BW: 500 0723-110252_5_7.jpeg
+Missed Bytes: 0, First Time: 1.9210247993469238, Final Time: 1.9210247993469238, RSSI Avg: -39.023809523809526, SF: 7, BW: 500 0723-110252_7_7.jpeg
+Missed Bytes: 0, First Time: 1.1486732959747314, Final Time: 1.1486732959747314, RSSI Avg: -48.76, SF: 7, BW: 500 0723-110252_5_6.jpeg
+Missed Bytes: 0, First Time: 2.064526081085205, Final Time: 2.066044569015503, RSSI Avg: -36.55555555555556, SF: 7, BW: 500 0723-111822_6_7.jpeg
+Missed Bytes: 64, First Time: 1.4588210582733154, Final Time: 31.58444118499756, RSSI Avg: -43.9375, SF: 7, BW: 500 0723-111822_5_7.jpeg
+Missed Bytes: 0, First Time: 1.4144749641418457, Final Time: 1.422483205795288, RSSI Avg: -49.516129032258064, SF: 7, BW: 500 0723-111822_4_7.jpeg
+Missed Bytes: 0, First Time: 1.2038252353668213, Final Time: 1.2052905559539795, RSSI Avg: -53.30769230769231, SF: 7, BW: 500 0723-111822_5_6.jpeg
+Missed Bytes: 0, First Time: 1.8915483951568604, Final Time: 1.8938853740692139, RSSI Avg: -43.80487804878049, SF: 7, BW: 500 0723-111822_7_7.jpeg
+Missed Bytes: 0, First Time: 1.4738833904266357, Final Time: 1.475975751876831, RSSI Avg: -49.3125, SF: 7, BW: 500 0723-112106_5_7.jpeg
+Missed Bytes: 0, First Time: 2.03312087059021, Final Time: 2.0357789993286133, RSSI Avg: -43.82222222222222, SF: 7, BW: 500 0723-112106_6_7.jpeg
+Missed Bytes: 0, First Time: 1.4148781299591064, Final Time: 1.419546127319336, RSSI Avg: -50.806451612903224, SF: 7, BW: 500 0723-112106_4_7.jpeg
+Missed Bytes: 0, First Time: 1.1969873905181885, Final Time: 1.197930097579956, RSSI Avg: -57.03846153846154, SF: 7, BW: 500 0723-112106_5_6.jpeg
+Missed Bytes: 0, First Time: 1.1917202472686768, Final Time: 1.1917202472686768, RSSI Avg: -57.61538461538461, SF: 7, BW: 500 0723-112106_6_6.jpeg
+Missed Bytes: 0, First Time: 1.4702816009521484, Final Time: 1.4702816009521484, RSSI Avg: -46.1875, SF: 7, BW: 500 0723-114328_5_7.jpeg
+Missed Bytes: 0, First Time: 1.4678380489349365, Final Time: 1.4691622257232666, RSSI Avg: -45.4375, SF: 7, BW: 500 0723-114424_5_7.jpeg
+Missed Bytes: 0, First Time: 2.0217037200927734, Final Time: 2.0234134197235107, RSSI Avg: -41.22727272727273, SF: 7, BW: 500 0723-114424_6_7.jpeg
+Missed Bytes: 0, First Time: 1.4164962768554688, Final Time: 1.4167439937591553, RSSI Avg: -47.516129032258064, SF: 7, BW: 500 0723-114424_4_7.jpeg
+Missed Bytes: 0, First Time: 1.139122724533081, Final Time: 1.1410555839538574, RSSI Avg: -51.56, SF: 7, BW: 500 0723-114424_5_6.jpeg
+Missed Bytes: 0, First Time: 1.7844395637512207, Final Time: 1.7853882312774658, RSSI Avg: -41.87179487179487, SF: 7, BW: 500 0723-114424_7_6.jpeg
+Missed Bytes: 0, First Time: 2.067911148071289, Final Time: 2.067911148071289, RSSI Avg: -40.31111111111111, SF: 7, BW: 500 0723-114527_6_7.jpeg
+Missed Bytes: 0, First Time: 1.4691345691680908, Final Time: 1.4691345691680908, RSSI Avg: -45.5625, SF: 7, BW: 500 0723-114527_5_7.jpeg
+Missed Bytes: 0, First Time: 1.4535348415374756, Final Time: 1.454038143157959, RSSI Avg: -46.354838709677416, SF: 7, BW: 500 0723-114527_4_7.jpeg
+Missed Bytes: 0, First Time: 1.1972992420196533, Final Time: 1.1982719898223877, RSSI Avg: -49.61538461538461, SF: 7, BW: 500 0723-114527_5_6.jpeg
+Missed Bytes: 0, First Time: 1.8379476070404053, Final Time: 1.8379476070404053, RSSI Avg: -40.325, SF: 7, BW: 500 0723-114527_7_7.jpeg
+Missed Bytes: 64, First Time: 2.0930042266845703, Final Time: 32.21438932418823, RSSI Avg: -46.62222222222222, SF: 7, BW: 500 0723-114822_6_7.jpeg
+Missed Bytes: 0, First Time: 1.4770808219909668, Final Time: 1.477623462677002, RSSI Avg: -53.0625, SF: 7, BW: 500 0723-114822_5_7.jpeg
+Missed Bytes: 0, First Time: 1.4200284481048584, Final Time: 1.4225497245788574, RSSI Avg: -54.0, SF: 7, BW: 500 0723-114822_4_7.jpeg
+Missed Bytes: 0, First Time: 1.2022686004638672, Final Time: 1.2022686004638672, RSSI Avg: -57.30769230769231, SF: 7, BW: 500 0723-114822_5_6.jpeg
+Missed Bytes: 0, First Time: 1.1048309803009033, Final Time: 1.1069703102111816, RSSI Avg: -59.416666666666664, SF: 7, BW: 500 0723-114822_6_4.jpeg
+Missed Bytes: 64, First Time: 2.6135499477386475, Final Time: 32.726238489151, RSSI Avg: -57.08771929824562, SF: 7, BW: 500 0723-134656_2_5.jpeg
+Missed Bytes: 0, First Time: 2.4157886505126953, Final Time: 2.4157886505126953, RSSI Avg: -58.41509433962264, SF: 7, BW: 500 0723-134656_2_4.jpeg
+Missed Bytes: 0, First Time: 2.1935184001922607, Final Time: 2.1935184001922607, RSSI Avg: -61.083333333333336, SF: 7, BW: 500 0723-134656_2_3.jpeg
+Missed Bytes: 0, First Time: 1.9986152648925781, Final Time: 2.008417844772339, RSSI Avg: -63.52272727272727, SF: 7, BW: 500 0723-134656_2_2.jpeg
+Missed Bytes: 0, First Time: 2.0648725032806396, Final Time: 2.0648725032806396, RSSI Avg: -62.53333333333333, SF: 7, BW: 500 0723-134656_3_5.jpeg
+Missed Bytes: 0, First Time: 2.545799732208252, Final Time: 2.5483450889587402, RSSI Avg: -50.267857142857146, SF: 7, BW: 500 0723-142027_2_5.jpeg
+Missed Bytes: 0, First Time: 2.000852108001709, Final Time: 2.0046186447143555, RSSI Avg: -55.27272727272727, SF: 7, BW: 500 0723-142027_2_2.jpeg
+Missed Bytes: 64, First Time: 2.4197347164154053, Final Time: 32.54403829574585, RSSI Avg: -56.113207547169814, SF: 7, BW: 500 0723-142027_2_4.jpeg
+Missed Bytes: 64, First Time: 2.1440987586975098, Final Time: 32.276230812072754, RSSI Avg: -53.787234042553195, SF: 7, BW: 500 0723-142027_2_3.jpeg
+Missed Bytes: 64, First Time: 2.054669141769409, Final Time: 32.17879819869995, RSSI Avg: -56.977777777777774, SF: 7, BW: 500 0723-142027_3_5.jpeg
+Missed Bytes: 0, First Time: 2.5549187660217285, Final Time: 2.5549187660217285, RSSI Avg: -50.0, SF: 7, BW: 500 0723-142408_2_5.jpeg
+Missed Bytes: 0, First Time: 2.4050300121307373, Final Time: 2.4050300121307373, RSSI Avg: -49.81132075471698, SF: 7, BW: 500 0723-142408_2_4.jpeg
+Missed Bytes: 0, First Time: 2.007554531097412, Final Time: 2.007554531097412, RSSI Avg: -53.25, SF: 7, BW: 500 0723-142408_2_2.jpeg
+Missed Bytes: 0, First Time: 2.182605743408203, Final Time: 2.1846635341644287, RSSI Avg: -51.916666666666664, SF: 7, BW: 500 0723-142408_2_3.jpeg
+Missed Bytes: 0, First Time: 2.0531492233276367, Final Time: 2.0546696186065674, RSSI Avg: -63.86666666666667, SF: 7, BW: 500 0723-142408_3_5.jpeg
+Missed Bytes: 0, First Time: 2.4160642623901367, Final Time: 2.4160642623901367, RSSI Avg: -67.26086956521739, SF: 7, BW: 500 0724-145920_4_6.jpeg
+Missed Bytes: 0, First Time: 2.308534860610962, Final Time: 2.308534860610962, RSSI Avg: -53.82222222222222, SF: 7, BW: 500 0724-145920_3_5.jpeg
+Missed Bytes: 0, First Time: 2.0142359733581543, Final Time: 2.0154898166656494, RSSI Avg: -58.717948717948715, SF: 7, BW: 500 0724-145920_3_3.jpeg
+Missed Bytes: 64, First Time: 2.1621172428131104, Final Time: 32.294532775878906, RSSI Avg: -64.07142857142857, SF: 7, BW: 500 0724-145920_4_5.jpeg
+Missed Bytes: 0, First Time: 2.0546488761901855, Final Time: 2.062645196914673, RSSI Avg: -76.67441860465117, SF: 7, BW: 500 0724-150424_4_6.jpeg
+Missed Bytes: 0, First Time: 1.9857044219970703, Final Time: 1.9857044219970703, RSSI Avg: -84.66666666666667, SF: 7, BW: 500 0724-150424_3_5.jpeg
+Missed Bytes: 0, First Time: 1.748119831085205, Final Time: 1.7507126331329346, RSSI Avg: -84.42105263157895, SF: 7, BW: 500 0724-150424_3_4.jpeg
+Missed Bytes: 0, First Time: 1.8789286613464355, Final Time: 1.8789286613464355, RSSI Avg: -86.07317073170732, SF: 7, BW: 500 0724-150424_4_5.jpeg
+Missed Bytes: 64, First Time: 1.6051971912384033, Final Time: 31.727250337600708, RSSI Avg: -89.94285714285714, SF: 7, BW: 500 0724-150424_3_3.jpeg
+Missed Bytes: 0, First Time: 2.282865524291992, Final Time: 2.282865524291992, RSSI Avg: -51.84, SF: 7, BW: 500 0729-144935_2_3.jpeg
+Missed Bytes: 0, First Time: 1.8489665985107422, Final Time: 1.8489665985107422, RSSI Avg: -55.170731707317074, SF: 7, BW: 500 0729-144935_2_2.jpeg
+Missed Bytes: 64, First Time: 2.140857696533203, Final Time: 32.28075337409973, RSSI Avg: -52.8936170212766, SF: 7, BW: 500 0729-144935_2_4.jpeg
+Missed Bytes: 0, First Time: 1.8512189388275146, Final Time: 1.8512189388275146, RSSI Avg: -51.5609756097561, SF: 7, BW: 500 0729-144935_3_5.jpeg
+Missed Bytes: 0, First Time: 1.8279139995574951, Final Time: 1.8352832794189453, RSSI Avg: -52.45, SF: 7, BW: 500 0729-144935_3_4.jpeg
+Missed Bytes: 0, First Time: 2.3542137145996094, Final Time: 2.356529712677002, RSSI Avg: -66.31372549019608, SF: 7, BW: 500 0729-152845_2_3.jpeg
+Missed Bytes: 0, First Time: 2.198112964630127, Final Time: 2.198112964630127, RSSI Avg: -64.1875, SF: 7, BW: 500 0729-152845_2_4.jpeg
+Missed Bytes: 0, First Time: 1.9168975353240967, Final Time: 1.9179573059082031, RSSI Avg: -56.404761904761905, SF: 7, BW: 500 0729-152845_2_2.jpeg
+Missed Bytes: 0, First Time: 1.909029245376587, Final Time: 1.909029245376587, RSSI Avg: -58.095238095238095, SF: 7, BW: 500 0729-152845_3_4.jpeg
+Missed Bytes: 0, First Time: 1.7212092876434326, Final Time: 1.7212092876434326, RSSI Avg: -59.5, SF: 7, BW: 500 0729-152845_3_5.jpeg
+Missed Bytes: 64, First Time: 2.423360824584961, Final Time: 32.54909133911133, RSSI Avg: -59.905660377358494, SF: 7, BW: 500 0730-144827_2_4.jpeg
+Missed Bytes: 0, First Time: 1.9910528659820557, Final Time: 1.9910528659820557, RSSI Avg: -64.61363636363636, SF: 7, BW: 500 0730-144827_2_2.jpeg
+Missed Bytes: 0, First Time: 2.0490849018096924, Final Time: 2.0504939556121826, RSSI Avg: -64.5111111111111, SF: 7, BW: 500 0730-144827_2_3.jpeg
+Missed Bytes: 0, First Time: 2.05591082572937, Final Time: 2.0599710941314697, RSSI Avg: -65.77777777777777, SF: 7, BW: 500 0730-144827_3_5.jpeg
+Missed Bytes: 0, First Time: 1.9874835014343262, Final Time: 1.9874835014343262, RSSI Avg: -65.52272727272727, SF: 7, BW: 500 0730-144827_2_5.jpeg
+Missed Bytes: 0, First Time: 2.427053213119507, Final Time: 2.427053213119507, RSSI Avg: -61.339622641509436, SF: 7, BW: 125, Distance: 500, File: 0805-112803_2_4.jpeg
+Missed Bytes: 0, First Time: 1.9626986980438232, Final Time: 1.964972734451294, RSSI Avg: -61.53488372093023, SF: 7, BW: 125, Distance: 500, File: 0805-112803_2_2.jpeg
+Missed Bytes: 0, First Time: 2.37187123298645, Final Time: 2.373582363128662, RSSI Avg: -58.69230769230769, SF: 7, BW: 125, Distance: 500, File: 0805-112803_2_5.jpeg
+Missed Bytes: 0, First Time: 2.236712694168091, Final Time: 2.238530158996582, RSSI Avg: -57.36734693877551, SF: 7, BW: 125, Distance: 500, File: 0805-112803_2_3.jpeg
+Missed Bytes: 0, First Time: 2.1726224422454834, Final Time: 2.1824631690979004, RSSI Avg: -57.770833333333336, SF: 7, BW: 125, Distance: 500, File: 0805-112803_3_5.jpeg
+Missed Bytes: 64, First Time: 2.5598034858703613, Final Time: 32.701699018478394, RSSI Avg: -64.66037735849056, SF: 7, BW: 125, Distance: 500, File: _2_4.jpeg
+Missed Bytes: 0, First Time: 2.5179572105407715, Final Time: 2.5191659927368164, RSSI Avg: -66.78846153846153, SF: 7, BW: 125, Distance: 500, File: _2_5.jpeg
+Missed Bytes: 0, First Time: 2.0742557048797607, Final Time: 2.0742557048797607, RSSI Avg: -68.97674418604652, SF: 7, BW: 125, Distance: 500, File: _2_2.jpeg
+Missed Bytes: 0, First Time: 2.363943576812744, Final Time: 2.365934133529663, RSSI Avg: -65.59183673469387, SF: 7, BW: 125, Distance: 500, File: _2_3.jpeg
+Missed Bytes: 0, First Time: 2.3202004432678223, Final Time: 2.3202004432678223, RSSI Avg: -69.625, SF: 7, BW: 125, Distance: 500, File: _3_5.jpeg
+Missed Bytes: 0, First Time: 2.547933578491211, Final Time: 2.547933578491211, RSSI Avg: -59.471698113207545, SF: 7, BW: 125, Distance: 500, File: _2_4.jpeg
+Missed Bytes: 0, First Time: 2.1163487434387207, Final Time: 2.1199066638946533, RSSI Avg: -64.5, SF: 7, BW: 125, Distance: 500, File: _2_2.jpeg
+Missed Bytes: 64, First Time: 2.2104737758636475, Final Time: 32.35664248466492, RSSI Avg: -64.5, SF: 7, BW: 125, Distance: 500, File: _3_5.jpeg
+Missed Bytes: 64, First Time: 2.2197420597076416, Final Time: 32.366138219833374, RSSI Avg: -69.67391304347827, SF: 7, BW: 125, Distance: 500, File: _2_3.jpeg
+Missed Bytes: 0, First Time: 2.1568763256073, Final Time: 2.1578781604766846, RSSI Avg: -67.5111111111111, SF: 7, BW: 125, Distance: 500, File: _2_5.jpeg
+Missed Bytes: 0, First Time: 2.5581893920898438, Final Time: 2.5657570362091064, RSSI Avg: -62.716981132075475, SF: 7, BW: 125, Distance: 500, File: _2_4.jpeg
+Missed Bytes: 0, First Time: 2.133179187774658, Final Time: 2.134188652038574, RSSI Avg: -66.79545454545455, SF: 7, BW: 125, Distance: 500, File: _2_2.jpeg
+Missed Bytes: 0, First Time: 2.1845321655273438, Final Time: 2.1845321655273438, RSSI Avg: -65.42222222222222, SF: 7, BW: 125, Distance: 500, File: _2_3.jpeg
+Missed Bytes: 0, First Time: 2.5541810989379883, Final Time: 2.5541810989379883, RSSI Avg: -59.716981132075475, SF: 7, BW: 125, Distance: 500, File: 0805-112803_2_4.jpeg
+Missed Bytes: 0, First Time: 2.0821471214294434, Final Time: 2.082991361618042, RSSI Avg: -63.41860465116279, SF: 7, BW: 125, Distance: 500, File: 0805-112803_2_2.jpeg
+Missed Bytes: 0, First Time: 2.5199010372161865, Final Time: 2.5216290950775146, RSSI Avg: -60.88461538461539, SF: 7, BW: 125, Distance: 500, File: 0805-112803_2_5.jpeg
+Missed Bytes: 64, First Time: 2.3720061779022217, Final Time: 32.501973390579224, RSSI Avg: -61.244897959183675, SF: 7, BW: 125, Distance: 500, File: 0805-112803_2_3.jpeg
+Missed Bytes: 0, First Time: 2.3298981189727783, Final Time: 2.3333680629730225, RSSI Avg: -69.66666666666667, SF: 7, BW: 125, Distance: 500, File: 0805-112803_3_5.jpeg
+Missed Bytes: 0, First Time: 2.5589277744293213, Final Time: 2.559990167617798, RSSI Avg: -60.471698113207545, SF: 7, BW: 125, Distance: 500, File: 0730-145128_2_4.jpeg
+Missed Bytes: 0, First Time: 2.129185914993286, Final Time: 2.1315956115722656, RSSI Avg: -57.11363636363637, SF: 7, BW: 125, Distance: 500, File: 0730-145128_2_2.jpeg
+Missed Bytes: 0, First Time: 2.2073450088500977, Final Time: 2.2073450088500977, RSSI Avg: -53.95652173913044, SF: 7, BW: 125, Distance: 500, File: 0730-145128_3_5.jpeg
+Missed Bytes: 0, First Time: 2.2293055057525635, Final Time: 2.238574504852295, RSSI Avg: -53.84782608695652, SF: 7, BW: 125, Distance: 500, File: 0730-145128_2_3.jpeg
+Missed Bytes: 0, First Time: 2.171847343444824, Final Time: 2.171847343444824, RSSI Avg: -54.8, SF: 7, BW: 125, Distance: 500, File: 0730-145128_2_5.jpeg
+Missed Bytes: 0, First Time: 2.572331666946411, Final Time: 2.575284004211426, RSSI Avg: -55.264150943396224, SF: 7, BW: 125, Distance: 500, File: 0730-144827_2_4.jpeg
+Missed Bytes: 0, First Time: 2.1744472980499268, Final Time: 2.1744472980499268, RSSI Avg: -60.733333333333334, SF: 7, BW: 125, Distance: 500, File: 0730-144827_2_3.jpeg
+Missed Bytes: 0, First Time: 2.173262119293213, Final Time: 2.1746349334716797, RSSI Avg: -61.0, SF: 7, BW: 125, Distance: 500, File: 0730-144827_3_5.jpeg
+Missed Bytes: 0, First Time: 2.127156972885132, Final Time: 2.1322104930877686, RSSI Avg: -60.97727272727273, SF: 7, BW: 125, Distance: 500, File: 0730-144827_2_2.jpeg
+Missed Bytes: 0, First Time: 2.121194839477539, Final Time: 2.121194839477539, RSSI Avg: -60.13636363636363, SF: 7, BW: 125, Distance: 500, File: 0730-144827_2_5.jpeg
+Missed Bytes: 0, First Time: 2.4641525745391846, Final Time: 2.4641525745391846, RSSI Avg: -66.13725490196079, SF: 7, BW: 125, Distance: 500, File: 0729-152845_2_3.jpeg
+Missed Bytes: 0, First Time: 2.330320358276367, Final Time: 2.330320358276367, RSSI Avg: -68.125, SF: 7, BW: 125, Distance: 500, File: 0729-152845_2_4.jpeg
+Missed Bytes: 0, First Time: 2.032498836517334, Final Time: 2.033496141433716, RSSI Avg: -72.0952380952381, SF: 7, BW: 125, Distance: 500, File: 0729-152845_2_2.jpeg
+Missed Bytes: 0, First Time: 2.036456346511841, Final Time: 2.037963628768921, RSSI Avg: -71.16666666666667, SF: 7, BW: 125, Distance: 500, File: 0729-152845_3_4.jpeg
+Missed Bytes: 0, First Time: 1.8371593952178955, Final Time: 1.8401148319244385, RSSI Avg: -72.26315789473684, SF: 7, BW: 125, Distance: 500, File: 0729-152845_3_5.jpeg
+Missed Bytes: 0, First Time: 2.4100089073181152, Final Time: 2.4126839637756348, RSSI Avg: -67.0, SF: 7, BW: 125, Distance: 500, File: 0729-144935_2_3.jpeg
+Missed Bytes: 0, First Time: 2.250401735305786, Final Time: 2.2617685794830322, RSSI Avg: -67.95744680851064, SF: 7, BW: 125, Distance: 500, File: 0729-144935_2_4.jpeg
+Missed Bytes: 64, First Time: 1.9726991653442383, Final Time: 32.13932251930237, RSSI Avg: -74.1219512195122, SF: 7, BW: 125, Distance: 500, File: 0729-144935_2_2.jpeg
+Missed Bytes: 0, First Time: 1.9865891933441162, Final Time: 1.9865891933441162, RSSI Avg: -67.5609756097561, SF: 7, BW: 125, Distance: 500, File: 0729-144935_3_5.jpeg
+Missed Bytes: 0, First Time: 1.9258143901824951, Final Time: 1.9321362972259521, RSSI Avg: -69.75, SF: 7, BW: 125, Distance: 500, File: 0729-144935_3_4.jpeg
+Missed Bytes: 0, First Time: 2.523165464401245, Final Time: 2.523165464401245, RSSI Avg: -58.660377358490564, SF: 7, BW: 125, Distance: 500, Size: 0, File: 0805-112803_2_4.jpeg
+Missed Bytes: 0, First Time: 2.074042797088623, Final Time: 2.074042797088623, RSSI Avg: -60.74418604651163, SF: 7, BW: 125, Distance: 500, Size: 0, File: 0805-112803_2_2.jpeg
+Missed Bytes: 64, First Time: 2.373688220977783, Final Time: 32.49632716178894, RSSI Avg: -60.204081632653065, SF: 7, BW: 125, Distance: 500, Size: 0, File: 0805-112803_2_3.jpeg
+Missed Bytes: 0, First Time: 2.5178122520446777, Final Time: 2.5178122520446777, RSSI Avg: -76.13461538461539, SF: 7, BW: 125, Distance: 500, Size: 0, File: 0805-112803_2_5.jpeg
+Missed Bytes: 0, First Time: 2.3125338554382324, Final Time: 2.317539930343628, RSSI Avg: -74.83333333333333, SF: 7, BW: 125, Distance: 500, Size: 0, File: 0805-112803_3_5.jpeg
+Missed Bytes: 0, First Time: 2.5608723163604736, Final Time: 2.5608723163604736, RSSI Avg: -59.924528301886795, SF: 7, BW: 125, Distance: 500, Size: 0, File: 0730-145128_2_4.jpeg
+Missed Bytes: 0, First Time: 2.115964889526367, Final Time: 2.115964889526367, RSSI Avg: -64.20454545454545, SF: 7, BW: 125, Distance: 500, Size: 0, File: 0730-145128_2_2.jpeg
+Missed Bytes: 0, First Time: 2.2201218605041504, Final Time: 2.2201218605041504, RSSI Avg: -61.45652173913044, SF: 7, BW: 125, Distance: 500, Size: 0, File: 0730-145128_3_5.jpeg
+Missed Bytes: 64, First Time: 2.0798909664154053, Final Time: 32.2206289768219, RSSI Avg: -82.55813953488372, SF: 7, BW: 125, Distance: 500, Size: 0, File: 0730-145128_3_4.jpeg
+Missed Bytes: 0, First Time: 2.22776198387146, Final Time: 2.22776198387146, RSSI Avg: -69.69565217391305, SF: 7, BW: 125, Distance: 500, Size: 0, File: 0730-145128_2_3.jpeg
+Missed Bytes: 64, First Time: 2.560255527496338, Final Time: 42.757641553878784, RSSI Avg: -61.58490566037736, SF: 7, BW: 125, Distance: 500, Size: 0, File: 0730-144827_2_4.jpeg
+Missed Bytes: 0, First Time: 2.124985933303833, Final Time: 2.124985933303833, RSSI Avg: -56.72727272727273, SF: 7, BW: 125, Distance: 500, Size: 0, File: 0730-144827_2_2.jpeg
+Missed Bytes: 0, First Time: 2.1613035202026367, Final Time: 2.1613035202026367, RSSI Avg: -59.022222222222226, SF: 7, BW: 125, Distance: 500, Size: 0, File: 0730-144827_2_3.jpeg
+Missed Bytes: 0, First Time: 2.1702990531921387, Final Time: 2.1717464923858643, RSSI Avg: -63.422222222222224, SF: 7, BW: 125, Distance: 500, Size: 0, File: 0730-144827_3_5.jpeg
+Missed Bytes: 0, First Time: 1.7416267395019531, Final Time: 1.7416267395019531, RSSI Avg: -67.66666666666667, SF: 7, BW: 125, Distance: 500, Size: 0, File: 0730-144827_2_1.jpeg
+Missed Bytes: 0, First Time: 2.4652318954467773, Final Time: 2.4677574634552, RSSI Avg: -58.92156862745098, SF: 7, BW: 125, Distance: 500, Size: 0, File: 0729-152845_2_3.jpeg
+Missed Bytes: 0, First Time: 2.3099100589752197, Final Time: 2.3158600330352783, RSSI Avg: -60.104166666666664, SF: 7, BW: 125, Distance: 500, Size: 0, File: 0729-152845_2_4.jpeg
+Missed Bytes: 0, First Time: 2.034694194793701, Final Time: 2.034694194793701, RSSI Avg: -62.88095238095238, SF: 7, BW: 125, Distance: 500, Size: 0, File: 0729-152845_2_2.jpeg
+Missed Bytes: 0, First Time: 2.037249803543091, Final Time: 2.038806676864624, RSSI Avg: -62.80952380952381, SF: 7, BW: 125, Distance: 500, Size: 0, File: 0729-152845_3_4.jpeg
+Missed Bytes: 64, First Time: 1.8431847095489502, Final Time: 42.03687906265259, RSSI Avg: -66.23684210526316, SF: 7, BW: 125, Distance: 500, Size: 0, File: 0729-152845_3_5.jpeg
+Missed Bytes: 0, First Time: 2.551928997039795, Final Time: 2.551928997039795, RSSI Avg: -77.39622641509433, SF: 7, BW: 125, Distance: 500, Size: 0, File: 0805-112803_2_4.jpeg
+Missed Bytes: 0, First Time: 2.0813255310058594, Final Time: 2.08178973197937, RSSI Avg: -92.69767441860465, SF: 7, BW: 125, Distance: 500, Size: 0, File: 0805-112803_2_2.jpeg
+Missed Bytes: 0, First Time: 2.3601388931274414, Final Time: 2.3601388931274414, RSSI Avg: -85.42857142857143, SF: 7, BW: 125, Distance: 500, Size: 0, File: 0805-112803_2_3.jpeg
+Missed Bytes: 0, First Time: 2.510493516921997, Final Time: 2.5124809741973877, RSSI Avg: -77.4423076923077, SF: 7, BW: 125, Distance: 500, Size: 0, File: 0805-112803_2_5.jpeg
+Missed Bytes: 64, First Time: 2.309899091720581, Final Time: 32.427337884902954, RSSI Avg: -78.27083333333333, SF: 7, BW: 125, Distance: 500, Size: 0, File: 0805-112803_3_5.jpeg
+Missed Bytes: 0, First Time: 2.5622692108154297, Final Time: 2.5622692108154297, RSSI Avg: -63.490566037735846, SF: 7, BW: 125, Distance: 500, Size: 0, File: 0730-145128_2_4.jpeg
+Missed Bytes: 0, First Time: 2.128556728363037, Final Time: 2.128556728363037, RSSI Avg: -68.20454545454545, SF: 7, BW: 125, Distance: 500, Size: 0, File: 0730-145128_2_2.jpeg
+Missed Bytes: 0, First Time: 2.2264907360076904, Final Time: 2.2264907360076904, RSSI Avg: -72.06521739130434, SF: 7, BW: 125, Distance: 500, Size: 0, File: 0730-145128_3_5.jpeg
+Missed Bytes: 0, First Time: 2.2122802734375, Final Time: 2.2122802734375, RSSI Avg: -68.21739130434783, SF: 7, BW: 125, Distance: 500, Size: 0, File: 0730-145128_2_3.jpeg
+Missed Bytes: 0, First Time: 2.0766446590423584, Final Time: 2.0808467864990234, RSSI Avg: -68.37209302325581, SF: 7, BW: 125, Distance: 500, Size: 0, File: 0730-145128_3_4.jpeg
+Missed Bytes: 0, First Time: 2.558772087097168, Final Time: 2.5599582195281982, RSSI Avg: -71.37735849056604, SF: 7, BW: 125, Distance: 500, Size: 0, File: 0730-144827_2_4.jpeg
+Missed Bytes: 64, First Time: 2.1242711544036865, Final Time: 32.24522876739502, RSSI Avg: -72.79545454545455, SF: 7, BW: 125, Distance: 500, Size: 0, File: 0730-144827_2_2.jpeg
+Missed Bytes: 0, First Time: 2.170135736465454, Final Time: 2.171656608581543, RSSI Avg: -64.73333333333333, SF: 7, BW: 125, Distance: 500, Size: 0, File: 0730-144827_3_5.jpeg
+Missed Bytes: 0, First Time: 2.1538164615631104, Final Time: 2.15761661529541, RSSI Avg: -65.6, SF: 7, BW: 125, Distance: 500, Size: 0, File: 0730-144827_2_3.jpeg
+Missed Bytes: 0, First Time: 2.112208604812622, Final Time: 2.112208604812622, RSSI Avg: -66.25, SF: 7, BW: 125, Distance: 500, Size: 0, File: 0730-144827_2_5.jpeg
+Missed Bytes: 0, First Time: 2.468353271484375, Final Time: 2.468353271484375, RSSI Avg: -68.17647058823529, SF: 7, BW: 125, Distance: 500, Size: 0, File: 0729-152845_2_3.jpeg
+Missed Bytes: 0, First Time: 2.3212740421295166, Final Time: 2.3212740421295166, RSSI Avg: -67.33333333333333, SF: 7, BW: 125, Distance: 500, Size: 0, File: 0729-152845_2_4.jpeg
+Missed Bytes: 64, First Time: 2.03967547416687, Final Time: 32.188265800476074, RSSI Avg: -69.71428571428571, SF: 7, BW: 125, Distance: 500, Size: 0, File: 0729-152845_2_2.jpeg
+Missed Bytes: 0, First Time: 1.8448047637939453, Final Time: 1.8448047637939453, RSSI Avg: -68.55263157894737, SF: 7, BW: 125, Distance: 500, Size: 0, File: 0729-152845_3_5.jpeg
+Missed Bytes: 0, First Time: 2.038141965866089, Final Time: 2.0391409397125244, RSSI Avg: -64.16666666666667, SF: 7, BW: 125, Distance: 500, Size: 0, File: 0729-152845_3_4.jpeg
+Missed Bytes: 64, First Time: 2.415816068649292, Final Time: 32.55121660232544, RSSI Avg: -60.9, SF: 7, BW: 125, Distance: 500, Size: 0, File: 0729-144935_2_3.jpeg
+Missed Bytes: 0, First Time: 2.2682864665985107, Final Time: 2.269871234893799, RSSI Avg: -60.4468085106383, SF: 7, BW: 125, Distance: 500, Size: 0, File: 0729-144935_2_4.jpeg
+Missed Bytes: 0, First Time: 1.978684425354004, Final Time: 1.9799840450286865, RSSI Avg: -61.09756097560975, SF: 7, BW: 125, Distance: 500, Size: 0, File: 0729-144935_2_2.jpeg
+Missed Bytes: 0, First Time: 1.986114501953125, Final Time: 1.986114501953125, RSSI Avg: -58.5609756097561, SF: 7, BW: 125, Distance: 500, Size: 0, File: 0729-144935_3_5.jpeg
+Missed Bytes: 0, First Time: 1.9310696125030518, Final Time: 1.9324872493743896, RSSI Avg: -59.975, SF: 7, BW: 125, Distance: 500, Size: 0, File: 0729-144935_3_4.jpeg
+Missed Bytes: 128, First Time: 46.722525119781494, Final Time: 76.90823721885681, RSSI Avg: -42.62448132780083, SF: 7, BW: 125, Distance: 0, Size: 0, File: cmprs_0805-112803.jpg
+Missed Bytes: 192, First Time: 46.61674952507019, Final Time: 76.85405421257019, RSSI Avg: -42.57053941908714, SF: 7, BW: 125, Distance: 0, Size: 0, File: cmprs_0805-112803.jpg
+Missed Bytes: 256, First Time: 46.6603627204895, Final Time: 76.93428087234497, RSSI Avg: -48.0, SF: 7, BW: 125, Distance: 0, Size: 0, File: cmprs_0805-112803.jpg
+Missed Bytes: 128, First Time: 46.686315059661865, Final Time: 76.87134957313538, RSSI Avg: -42.606846473029044, SF: 7, BW: 125, Distance: 0, Size: 0, File: cmprs_0805-112803.jpg
+Missed Bytes: 128, First Time: 46.67569589614868, Final Time: 76.8518316745758, RSSI Avg: -40.399377593360995, SF: 7, BW: 125, Distance: 0, Size: 0, File: cmprs_0805-112803.jpg
+Missed Bytes: 192, First Time: 46.54366898536682, Final Time: 76.77636003494263, RSSI Avg: -38.33195020746888, SF: 7, BW: 125, Distance: 0, Size: 0, File: cmprs_0805-112803.jpg
+Missed Bytes: 448, First Time: 46.79075026512146, Final Time: 77.20465779304504, RSSI Avg: -50.20539419087137, SF: 7, BW: 125, Distance: 0, Size: 0, File: cmprs_0805-112803.jpg
+Missed Bytes: 128, First Time: 46.69070029258728, Final Time: 76.86122989654541, RSSI Avg: -41.26970954356847, SF: 7, BW: 125, Distance: 0, Size: 0, File: cmprs_0805-112803.jpg
+Missed Bytes: 0, First Time: 2.5453732013702393, Final Time: 2.546384572982788, RSSI Avg: -58.81132075471698, SF: 7, BW: 125, Distance: 0, Size: 0, File: 0805-112803_2_4.jpeg
+Missed Bytes: 0, First Time: 2.0703160762786865, Final Time: 2.0703160762786865, RSSI Avg: -63.116279069767444, SF: 7, BW: 125, Distance: 0, Size: 0, File: 0805-112803_2_2.jpeg
+Missed Bytes: 0, First Time: 2.503720998764038, Final Time: 2.5056490898132324, RSSI Avg: -59.32692307692308, SF: 7, BW: 125, Distance: 0, Size: 0, File: 0805-112803_2_5.jpeg
+Missed Bytes: 0, First Time: 2.3580679893493652, Final Time: 2.3594772815704346, RSSI Avg: -60.91836734693877, SF: 7, BW: 125, Distance: 0, Size: 0, File: 0805-112803_2_3.jpeg
+Missed Bytes: 0, First Time: 2.3078742027282715, Final Time: 2.31391978263855, RSSI Avg: -61.229166666666664, SF: 7, BW: 125, Distance: 0, Size: 0, File: 0805-112803_3_5.jpeg
+Missed Bytes: 0, First Time: 46.6318998336792, Final Time: 46.63403272628784, RSSI Avg: -42.29356846473029, SF: 7, BW: 125, Distance: 0, Size: 0, File: cmprs_0805-112803.jpg
+Missed Bytes: 128, First Time: 46.68619155883789, Final Time: 76.85227465629578, RSSI Avg: -40.475103734439834, SF: 7, BW: 125, Distance: 0, Size: 0, File: cmprs_0805-112803.jpg
+Missed Bytes: 0, First Time: 2.5589663982391357, Final Time: 2.56066632270813, RSSI Avg: -66.49056603773585, SF: 7, BW: 125, Distance: 0, Size: 0, File: 0805-112803_2_4.jpeg
+Missed Bytes: 0, First Time: 2.0702545642852783, Final Time: 2.071974754333496, RSSI Avg: -70.69767441860465, SF: 7, BW: 125, Distance: 0, Size: 0, File: 0805-112803_2_2.jpeg
+Missed Bytes: 0, First Time: 2.3716516494750977, Final Time: 2.3716516494750977, RSSI Avg: -68.0204081632653, SF: 7, BW: 125, Distance: 0, Size: 0, File: 0805-112803_2_3.jpeg
+Missed Bytes: 0, First Time: 2.5140023231506348, Final Time: 2.515676259994507, RSSI Avg: -66.59615384615384, SF: 7, BW: 125, Distance: 0, Size: 0, File: 0805-112803_2_5.jpeg
+Missed Bytes: 0, First Time: 2.3212807178497314, Final Time: 2.3224525451660156, RSSI Avg: -68.41666666666667, SF: 7, BW: 125, Distance: 0, Size: 0, File: 0805-112803_3_5.jpeg
+Missed Bytes: 0, First Time: 48.99217677116394, Final Time: 48.99217677116394, RSSI Avg: -50.487154150197625, SF: 7, BW: 125, Distance: 0, Size: 0, File: cmprs_0730-145128.jpg
+Missed Bytes: 0, First Time: 2.559816837310791, Final Time: 2.559816837310791, RSSI Avg: -76.33962264150944, SF: 7, BW: 125, Distance: 0, Size: 0, File: 0730-145128_2_4.jpeg
+Missed Bytes: 0, First Time: 2.120248317718506, Final Time: 2.127615213394165, RSSI Avg: -69.45454545454545, SF: 7, BW: 125, Distance: 0, Size: 0, File: 0730-145128_2_2.jpeg
+Missed Bytes: 0, First Time: 2.2158122062683105, Final Time: 2.2158122062683105, RSSI Avg: -75.6086956521739, SF: 7, BW: 125, Distance: 0, Size: 0, File: 0730-145128_2_3.jpeg
+Missed Bytes: 0, First Time: 2.226179599761963, Final Time: 2.226179599761963, RSSI Avg: -62.69565217391305, SF: 7, BW: 125, Distance: 0, Size: 0, File: 0730-145128_3_5.jpeg
+Missed Bytes: 0, First Time: 2.1660685539245605, Final Time: 2.1660685539245605, RSSI Avg: -64.2, SF: 7, BW: 125, Distance: 0, Size: 0, File: 0730-145128_2_5.jpeg
+Missed Bytes: 64, First Time: 48.74104833602905, Final Time: 78.87463188171387, RSSI Avg: -45.69375619425173, SF: 7, BW: 125, Distance: 0, Size: 0, File: cmprs_0730-144827.jpg
+Missed Bytes: 0, First Time: 2.570053815841675, Final Time: 2.5815155506134033, RSSI Avg: -75.22641509433963, SF: 7, BW: 125, Distance: 0, Size: 0, File: 0730-144827_2_4.jpeg
+Missed Bytes: 0, First Time: 2.1327192783355713, Final Time: 2.1327192783355713, RSSI Avg: -79.79545454545455, SF: 7, BW: 125, Distance: 0, Size: 0, File: 0730-144827_2_2.jpeg
+Missed Bytes: 0, First Time: 2.1844866275787354, Final Time: 2.189990758895874, RSSI Avg: -79.28888888888889, SF: 7, BW: 125, Distance: 0, Size: 0, File: 0730-144827_3_5.jpeg
+Missed Bytes: 0, First Time: 2.1850130558013916, Final Time: 2.1862664222717285, RSSI Avg: -79.37777777777778, SF: 7, BW: 125, Distance: 0, Size: 0, File: 0730-144827_2_3.jpeg
+Missed Bytes: 0, First Time: 2.0399439334869385, Final Time: 2.0416312217712402, RSSI Avg: -81.61904761904762, SF: 7, BW: 125, Distance: 0, Size: 0, File: 0730-144827_3_4.jpeg
